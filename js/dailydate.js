@@ -38,6 +38,7 @@ function init() {
 		parent.appendChild(div);
 	}
 	document.getElementById(selected).classList.add('selected');
+	loadLocation(selected);
 }
 
 function loadGuide(spirit, location, route, int) {
