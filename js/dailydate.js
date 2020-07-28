@@ -109,7 +109,7 @@ $(document).ready(function() {
             $('#routelist').hide();
             selected = this.id;
             localStorage['dalDDSelected'] = selected;
-            loadLocation('tohka');
+            loadLocation(this.id);
         });
     });
 
