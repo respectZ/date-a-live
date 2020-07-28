@@ -11,3 +11,5 @@ Preview:
 https://respectz.github.io/date-a-live/dailydate/
 
 Currently, only limited to Tohka at Doll Shop
+
+i suck at front-end no complaint 

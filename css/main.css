@@ -36,21 +36,24 @@ header li {
 
 .wrapper {
   display: grid;
-  height: 100%;
+  height: 100vh;
   grid-template-columns: 120px auto;
   color: #444;
+  overflow: auto;
 }
 
 .left {
 	background: #414141;
-  height: 100vh;
+  height: 100%;
   overflow: auto;
 }
 
 .right {
+  height: 100%
   margin-left: 20px;
   margin-top: 20px;
   color: #fff;
+  overflow: auto;
 }
 
 .spirit {
@@ -76,12 +79,19 @@ header li {
   width: auto;
 }
 
+.guide {
+  width: 90%;
+}
+
 #date1 {
   margin-right: 20px;
 }
 
 .guidebox {
-  width: max-content;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  max-width: 100%;
+  width:max-content;
   margin-bottom: 10px;
   list-style-type: none;
   padding: 8px;
