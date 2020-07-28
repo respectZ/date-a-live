@@ -42,6 +42,7 @@ function init() {
 }
 
 function loadGuide(spirit, location, route, int) {
+	console.log(location);
 	$('#name').html('"'+data.spirit[spirit].date[location].ending[route][int].name+'"');
 	for(var i=0;i<data.spirit[spirit].date[location].ending[route][int].guide.length;i++) {
 		console.log(i);
@@ -65,34 +66,36 @@ function loadRoute(spirit, location) {
 		}
 	}
 	$("#routelist li").click(function (event) {
-    	
+    	if(this.id == selectedRoute) return;
 		$(this).css('background','#ca3e47');
 		if(selectedRoute != '') {
 			$('#'+selectedRoute).css('background','#313131');
 		}
 		selectedRoute = this.id;
 		$('#guidelist').html('');
-		loadGuide(selected, selectedLocation, this.id.split('-')[0], this.id.split('-')[1]);
+		loadGuide(selected, selectedLocation.substring(1), this.id.split('-')[0], this.id.split('-')[1]);
 		//$('#routelist').show();
 		});
 }
 
 function loadLocation(spirit) {
-	document.getElementById('locationlist').innerHTML = '';
 	for(var i in data.spirit[spirit].date) {
 		let location = document.createElement('li');
 		location.classList.add('routebox');
-		location.innerHTML = i;
-		location.id = i;
+		location.innerHTML = data.spirit[spirit].date[i].name;
+		location.id = 'd'+i;
 		document.getElementById('locationlist').appendChild(location);
 	}
 	$("#locationlist li").click(function (event) {
+		if(this.id == selectedLocation) return;
 	$(this).css('background','#ca3e47');
 	if(selectedLocation != '') {
 		$('#'+selectedLocation).css('background','#313131');
+		console.log('ayy ' + selectedLocation);
 	}
-	selectedLocation = $(this).html()
-	loadRoute(selected, this.id);
+	selectedLocation = this.id;
+	$('#routelist').html('');
+	loadRoute(selected, this.id.substring(1));
 	$('#routelist').show();
 	});
 }
@@ -110,7 +113,16 @@ $(document).ready(function() {
             $('#routelist').hide();
             selected = this.id;
             localStorage['dalDDSelected'] = selected;
+            //nullify #1
+            $('#locationlist').html('');
+            $('#guidelist').html('');
+            $('#routelist').html('');
+            $('#name').html('');
             loadLocation(this.id);
+
+            //nullify
+            selectedLocation = '';
+            selectedRoute = '';
         });
     });
 

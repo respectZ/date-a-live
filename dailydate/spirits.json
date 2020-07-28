@@ -6,7 +6,8 @@
         "img": "https://newsimg.5054399.com/uploads/userup/1811/2314403Tb8.jpg"
       },
       "date": {
-        "Doll Shop": {
+        "0": {
+          "name":"Doll Shop",
           "ending": {
             "Happy":{
               "0":{
@@ -36,7 +37,7 @@
             },
             "Hidden":{
               "0":{
-                "name":"I am the envoy from the sea",
+                "name":"Great Treasure",
                 "guide":[0, 5, 7, 10]
               }
             }
@@ -59,20 +60,159 @@
             "Don't Buy"
           ]
         },
-        "Bakery": {},
-        "Supermarket": {}
+        "1": {
+          "name":"Bakery"
+        },
+        "2": {
+          "name":"Restaurant"
+        }
       }
     },
     "yoshino":{
       "data":{
         "name":"Yoshino Himekawa",
         "img":"https://newsimg.5054399.com/uploads/userup/1811/2314431K951.jpg"
+      },
+      "date":{
+        "0":{
+          "name":"Doll Shop",
+          "ending":{
+            "Happy":{
+              "0":{},
+              "1":{}
+            },
+            "True":{
+              "0":{}
+            },
+            "Normal":{
+              "0":{},
+              "1":{},
+              "2":{}
+            },
+            "Hidden":{
+              "0":{}
+            }
+          },
+          "text":[]
+        },
+        "1":{
+          "name":"Park at Night",
+          "ending":{
+            "Happy":{
+              "0":{},
+              "1":{}
+            },
+            "True":{
+              "0":{},
+              "1":{},
+              "2":{}
+            },
+            "Normal":{
+              "0":{},
+              "1":{},
+              "2":{},
+              "3":{}
+            },
+            "Hidden":{
+              "0":{}
+            }
+          },
+          "text":[]
+        },
+        "2":{
+          "name":"Park",
+          "ending":{
+            "Happy":{
+              "0":{}
+            },
+            "True":{
+              "0":{},
+              "1":{}
+            },
+            "Normal":{
+              "0":{},
+              "1":{},
+              "2":{}
+            },
+            "Hidden":{
+              "0":{}
+            }
+          },
+          "text":[]
+        }
       }
     },
     "origami":{
       "data":{
         "name":"Tobichii Origami",
         "img":"https://newsimg.5054399.com/uploads/userup/1811/231443302249.jpg"
+      },
+      "date":{
+        "0":{
+          "name":"Bath House",
+          "ending":{
+            "Happy":{
+              "0":{
+                "name":"Another Side of Origami",
+                "guide":[0, 4, 7, 10, 12]
+              }
+            },
+            "True":{
+              "0":{
+                "name":"Hot Spring Egg",
+                "guide":[0, 4, 6, 14, 15, 27]
+              },
+              "1":{}
+            },
+            "Normal":{
+              "0":{},
+              "1":{},
+              "2":{}
+            },
+            "Hidden":{
+              "0":{}
+            }
+          },
+          "text":[
+            "Cook supper and bring it along ~",
+            "I'm busy recently, maybe some other day ?",
+            "This is a trick!",
+            "Drink some water first",
+            "Eat supper first",
+            "Eat fruit first",
+            "Get up",
+            "Can't move",
+            "Lie down for a while",
+            "Hold Origami's hand",
+            "Push Origami down",
+            "Break free",
+            "Kiss",
+            "Red Curtain",
+            "Blue Curtain",
+            "Is that you?",
+            "Excuse me, who are you?",
+            "Origami?",
+            "30 - 40",
+            "40 - 50",
+            "50 - 60",
+            "20 minutes",
+            "30 minutes",
+            "40 minutes",
+            "Soy Sauce",
+            "Mustard",
+            "Sweet Sauce",
+            "<p style='color: #77dd77'>From here, you have to choose the remaining one that doesn't blink</p>"
+          ]
+        },
+        "1":{
+          "name":"Flower Store (Night)"
+        },
+        "2":{
+          "name":"Bakery"
+        },
+        "3":{
+          "name":"Beach Resort"
+        }
       }
     },
     "kurumi":{
