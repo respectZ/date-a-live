@@ -113,6 +113,16 @@ function loadLocation(spirit) {
 	}
 	$("#locationlist li").click(function (event) {
 		if(this.id == selectedLocation) return;
+
+	//banish name
+	$("#name").html('');
+	//vanish cg
+	$("div").remove(".cg");
+	//banish route
+	selectedRoute = '';
+	//banish guide
+	$('#guidelist').html('');
+
 	$(this).css('background','#ca3e47');
 	if(selectedLocation != '') {
 		$('#'+selectedLocation).css('background','#313131');
@@ -122,9 +132,6 @@ function loadLocation(spirit) {
 	$('#routelist').html('');
 	loadRoute(selected, this.id.substring(1));
 	$('#routelist').show();
-
-	//banish cg
-	$("div").remove(".cg");
 	});
 }
 
