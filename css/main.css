@@ -39,7 +39,6 @@ header li {
   height: 100vh;
   grid-template-columns: 120px auto;
   color: #444;
-  overflow: auto;
 }
 
 .left {
@@ -49,7 +48,7 @@ header li {
 }
 
 .right {
-  height: 100%
+  height: 90%;
   margin-left: 20px;
   margin-top: 20px;
   color: #fff;
@@ -77,6 +76,14 @@ header li {
 .selection {
   display: inline-flex;
   width: auto;
+}
+
+@media only screen and (max-device-width: 768px) {
+/* Styles */
+.selection {
+  display: block;
+  width: auto;
+}
 }
 
 .guide {
@@ -108,6 +115,53 @@ header li {
   background: #313131;
   color: #fff;
   cursor: pointer;
+}
+
+.cg {
+  display: inline-flex;
+  width: 200px;
+  border: 5px solid #313131;
+  cursor: pointer;
+}
+
+.popup {
+  display: none;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  background: rgba(0,0,0,0.8);
+}
+
+.poptable {
+  display: table-cell; 
+  vertical-align: middle;
+}
+
+.poppedcg {
+  width: 87vw;
+  margin: 0 auto;
+  animation: zoomout 0.5s;
+}
+
+@keyframes zoomout {
+  0% {
+    transform: scale(0.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+footer {
+   position: fixed;
+   right: 0;
+   bottom: 0;
+   width: max-content;
+   padding: 8px;
+   background-color: #313131;
+   color: white;
 }
 
 /*custom scrollbar*/

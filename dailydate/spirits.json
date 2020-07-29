@@ -12,17 +12,19 @@
             "Happy":{
               "0":{
                 "name":"I am the envoy from the sea",
-                "guide":[]
+                "cg":"doll_happy.png",
+                "guide":[0, 5, 6, 15, 17, 19, 22, 26]
               }
             },
             "Normal":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"A wise man submits to food.",
+                "guide":[0, 3, 15, 17, 19, 21, 24]
               },
               "1":{
-                "name":"",
-                "guide":[]
+                "name":"Sleeping Detective",
+                "cg":"doll_normal.png",
+                "guide":[0, 3, 16, 25]
               }
             },
             "True":{
@@ -31,8 +33,8 @@
                 "guide":[0, 5, 7, 8, 12, 13]
               },
               "1":{
-                "name":"",
-                "guide":[]
+                "name":"See the light again",
+                "guide":[0, 5, 6, 15, 17, 19, 21, 23]
               }
             },
             "Hidden":{
@@ -50,14 +52,26 @@
             "It's just a doll, leave it alone...",
             "... let's forget about Mr. Rabbit for now.",
             "Cat-eared Hairpins",
-            "Teddy Bear Doll",
+            "Teddy bear doll",
             "This bear smells fishy",
             "Let's check other toys",
             "Purchase with coupon",
             "Sit down and rest a bit",
             "Hand over the orange juice",
             "Buy",
-            "Don't Buy"
+            "Don't Buy",
+            "Remove the cat ears quietly",
+            "Reach out and touch the cat ears",
+            "Look down",
+            "Runaway",
+            "Wake up Tohka",
+            "Observe the surroundings first",
+            "Keep looking for keys",
+            "Find another way to escape",
+            "We will meet again",
+            "Sorry but I don't belong here",
+            "You can choose anything here.",
+            "Attack the eyes"
           ]
         },
         "1": {
@@ -78,43 +92,125 @@
           "name":"Doll Shop",
           "ending":{
             "Happy":{
-              "0":{},
-              "1":{}
+              "0":{
+                "name":"Return with Full Hands",
+                "cg":"doll_happy_1.png",
+                "guide":[2, 3, 6, 10, 11]
+              },
+              "1":{
+                "name":"Oasis of Mind",
+                "guide":[2, 5, 16, 17, 19]
+              }
             },
             "True":{
-              "0":{}
+              "0":{
+                "name":"Crane Machine Master",
+                "guide":[2, 3, 7, 21, 25, 27]
+              }
             },
             "Normal":{
-              "0":{},
-              "1":{},
-              "2":{}
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              },
+              "2":{
+                "name":"",
+                "guide":[]
+              }
             },
             "Hidden":{
-              "0":{}
+              "0":{
+                "name":"",
+                "guide":[]
+              }
             }
           },
-          "text":[]
+          "text":[
+            "To apologize, how about we go to doll shop and get a doll for you ?",
+            "Then I'll make it up with a kiss!",
+            "I guess I'll have to get on my knees and apologize!",
+            "It's a crane machine. All dolls are waiting inside.",
+            "It's a crane machine, a place where dolls rest.",
+            "It's a crane machine, a cage that imprisons dolls with magic",
+            "You are so cute that everyone wants to be your friend, Yoshino.",
+            "Why do you lack confidence in yourself, Yoshino?",
+            "How about that gray Angora rabbit?",
+            "That green frog doll looks fabulous.",
+            "That brown and white bear doll is the cutest.",
+            "Ask Kotori for help.",
+            "Try again.",
+            "Shake the machine.",
+            "These dolls are being punished inside.",
+            "These dolls are trapped inside, waiting for their hero to set them free.",
+            "These dolls are wicked. They must be imprisoned inside.",
+            "Let me pat your head, and everything will be fine.",
+            "Kiss me, and everything will be fine.",
+            "Because you are the oasis of my mind, Yoshino.",
+            "Because you are my dear princess, Yoshino",
+            "I'll cast a spell that gets the dolls out!",
+            "Smash the glass window in a cool pose!",
+            "Were you stalking me?",
+            "I don't need your over-protection at all!",
+            "How did you manage to get so many dolls?",
+            "Some peppermint candies I bought this morning.",
+            "Some private clothes.",
+            "Forget it..."
+          ]
         },
         "1":{
           "name":"Park at Night",
           "ending":{
             "Happy":{
-              "0":{},
-              "1":{}
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              }
             },
             "True":{
-              "0":{},
-              "1":{},
-              "2":{}
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              },
+              "2":{
+                "name":"",
+                "guide":[]
+              }
             },
             "Normal":{
-              "0":{},
-              "1":{},
-              "2":{},
-              "3":{}
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              },
+              "2":{
+                "name":"",
+                "guide":[]
+              },
+              "3":{
+                "name":"",
+                "guide":[]
+              }
             },
             "Hidden":{
-              "0":{}
+              "0":{
+                "name":"",
+                "guide":[]
+              }
             }
           },
           "text":[]
@@ -123,19 +219,40 @@
           "name":"Park",
           "ending":{
             "Happy":{
-              "0":{}
+              "0":{
+                "name":"",
+                "guide":[]
+              }
             },
             "True":{
-              "0":{},
-              "1":{}
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              }
             },
             "Normal":{
-              "0":{},
-              "1":{},
-              "2":{}
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              },
+              "2":{
+                "name":"",
+                "guide":[]
+              }
             },
             "Hidden":{
-              "0":{}
+              "0":{
+                "name":"",
+                "guide":[]
+              }
             }
           },
           "text":[]
@@ -162,15 +279,30 @@
                 "name":"Hot Spring Egg",
                 "guide":[0, 4, 6, 14, 15, 27]
               },
-              "1":{}
+              "1":{
+                "name":"",
+                "guide":[]
+              }
             },
             "Normal":{
-              "0":{},
-              "1":{},
-              "2":{}
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              },
+              "2":{
+                "name":"",
+                "guide":[]
+              }
             },
             "Hidden":{
-              "0":{}
+              "0":{
+                "name":"",
+                "guide":[]
+              }
             }
           },
           "text":[
@@ -225,6 +357,79 @@
       "data":{
         "name":"",
         "img":"https://newsimg.5054399.com/uploads/userup/1903/24161FO546.jpg"
+      },
+      "date":{
+        "0":{
+          "name":"Clothing Store",
+          "ending":{
+            "Happy":{
+              "0":{
+                "name":"Diva Miku",
+                "cg":"clothing_happy.png",
+                "guide":[1, 3, 5, 7, 10, 13]
+              },
+              "1":{
+                "name":"Fitting Room for Two",
+                "guide":[2, 16, 18, 20, 21]
+              }
+            },
+            "True":{
+              "0":{
+                "name":"Sing for You",
+                "guide":[1, 3, 5, 7, 10, 14]
+              }
+            },
+            "Normal":{
+              "0":{
+                "name":"Escape in a hurry",
+                "guide":[1, 3, 6, 23, 26]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "Hidden":{
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "2":{
+                "name":"",
+                "guide":[]
+              }
+            }
+          },
+          "text":[
+            "Tohka is right ahead, there might be trouble if she sees us like this...",
+            "Won't it be troublesome if other students from all-girls private school see Miku like this?",
+            "Miku is an idol afte all! Won't it cause trouble if paparazzi take photos of you?",
+            "Okay, let me help you choose",
+            "Actually, I'm no very good at this...",
+            "Choose the small skirt",
+            "Choose the student uniform",
+            "It's a great costume for performance",
+            "It can show off Miku's figure",
+            "Its color can serve as a foil to Miku's skin",
+            "Miku is very attractive on stage",
+            "Miku is already attractive without singing",
+            "I like Miku, no matter how you look",
+            "Miku on the stage belongs to everyone",
+            "I will be Miku's most loyal listener",
+            "But I'll be recognized by others!",
+            "What you said makes sense...",
+            "Hide first",
+            "Greet them first",
+            "I was dragged here by Miku...",
+            "I was choosing clothers with Miku.",
+            "The gorgeous style chosen by Tohka",
+            "The fresh style chosen by Yoshino",
+            "I'm looking forward to it",
+            "It's better to try on a new uniform...",
+            "Rush in",
+            "As the store Staff to go in"
+          ]
+        }
       }
     },
     "kotori":{
