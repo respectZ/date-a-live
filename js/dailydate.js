@@ -35,10 +35,11 @@ function init() {
 	let parent = document.getElementsByClassName('left')[0];
 	for(var i in data.spirit) {
 		var div = document.createElement('div');
-		var img = document.createElement('img');
+		var img = document.createElement('div');
 		div.classList.add('spirit');
 		img.classList.add('thumb');
-		img.setAttribute('src',data.spirit[i].data.img)
+		//img.setAttribute('src',data.spirit[i].data.img)
+		img.style.content = 'url("'+data.spirit[i].data.img+'")';
 		div.id = i;
 		div.appendChild(img);
 		parent.appendChild(div);
@@ -163,7 +164,12 @@ $(document).ready(function() {
             $("div").remove(".cg");
         });
         $('.popup').click(function(event) {
-        	$(this).css('display','none');
+        	$('.poppedcg').addClass('out');
+        	//$(this).css('display','none');
+        	setTimeout(function() {
+        		$('.popup').css('display','none');
+        		$('.poppedcg').removeClass('out');
+        	}, 400)
         })
     });
 

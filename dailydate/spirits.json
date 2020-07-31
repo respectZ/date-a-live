@@ -75,10 +75,101 @@
           ]
         },
         "1": {
-          "name":"Bakery"
+          "name":"Bakery",
+          "ending":{
+            "Happy":{
+              "0":{
+                "name":"My heart will be the crown of your glory",
+                "cg":"bakery_happy.png",
+                "guide":[2, 3, 7, 9, 12]
+              }
+            },
+            "True":{
+              "0":{
+                "name":"Some says sakura falls at five centimeters per second.",
+                "cg":"bakery_true.png",
+                "guide":[2, 4, 14, 16]
+              },
+              "1":{
+                "name":"That kind of things, I can teach you all!",
+                "guide":[2, 3, 6, 18, 21]
+              }
+            },
+            "Normal":{
+              "0":{
+                "name":"Bittersweet",
+                "guide":[2, 3, 6, 19]
+              },
+              "1":{
+                "name":"I like everything about you",
+                "guide":[2, 3, 6, 18, 22]
+              },
+              "2":{
+                "name":"World Peace",
+                "guide":[2, 4, 15, 25, 29]
+              }
+            },
+            "Hidden":{
+              "0":{
+                "name":"Here they are!",
+                "guide":[2, 3, 7, 10]
+              }
+            }
+          },
+          "text":[
+            "Must be the spoiled food I ate last night, damn it!",
+            "I couldn't too run fast due to my injury.",
+            "Impressive! Good work, Tohka!",
+            "We can stroll around first!",
+            "Then we'll have to wait in line at bakery.",
+            "Ask Kotori for help",
+            "It's an evil ritual to summon the Bread Devil.",
+            "It's a contest to see who can eat the most kinako bread.",
+            "Origami, let's team up!",
+            "How about you two team up",
+            "Remember the promise made to Kurumi",
+            "Pray silently",
+            "Cheer for them",
+            "Deluxe cheese bread family pack",
+            "Cherry bean paste bread",
+            "Kinako Bread",
+            "Can you taste the bean paste?",
+            "Can you taste cherry blossoms?",
+            "Is kinako bread really that delicious?",
+            "If kinako bread and I fell into the river at the same time, who would Tohka save first?",
+            "Of course, I also need to take care of my younger sister at home.",
+            "I'll teach you everything you don't know!",
+            "That's why we shouldn't be fastidious about food ~",
+            "Don't mind me... I'm on a diet.",
+            "Let me have a bite!",
+            "Then... I'll have one too!",
+            "We had promised, right?",
+            "I like spending time with Tohka like this ~",
+            "This world is inclusive",
+            "Choose what you like"
+          ]
         },
         "2": {
-          "name":"Restaurant"
+          "name":"Supermarket",
+          "ending":{
+            "Happy":{
+              "0":{},
+              "1":{}
+            },
+            "True":{
+              "0":{}
+            },
+            "Normal":{
+              "0":{},
+              "1":{},
+              "2":{}
+            },
+            "Hidden":{
+              "0":{},
+              "1":{}
+            }
+          },
+          "text":[]
         }
       }
     },
@@ -110,22 +201,23 @@
             },
             "Normal":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"Doll's New Master",
+                "guide":[0, 5, 16, 17, 20]
               },
               "1":{
-                "name":"",
-                "guide":[]
+                "name":"Crane Machine Hero",
+                "guide":[0, 3, 7, 20, 24, 26]
               },
               "2":{
-                "name":"",
-                "guide":[]
+                "name":"Unexpected Doll",
+                "guide":[1, 29, 33, 35, 36, 39]
               }
             },
             "Hidden":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"Giant Yoshinon",
+                "cg":"hidden_doll.png",
+                "guide":[1, 29, 33, 35, 36, 40]
               }
             }
           },
@@ -158,7 +250,19 @@
             "How did you manage to get so many dolls?",
             "Some peppermint candies I bought this morning.",
             "Some private clothes.",
-            "Forget it..."
+            "Forget it...",
+            "How about I carry you in my arms to the doll shop, Yoshino?",
+            "How about I take your hand to the doll shop, Yoshino?",
+            "It's a fine day today. Let's walk there.",
+            "Not at all. You're light, Yoshino.",
+            "Yeah, it's really heavy, like I'm holding the entire world.",
+            "Let's get a lovely doll from the doll shop.",
+            "Let's customize a doll that you like best, Yoshino.",
+            "Then I'll order a super sized doll for you, Yoshino.",
+            "Cleaning a super sized doll would be tricky.",
+            "But it's too big for us to bring it home.",
+            "Take off Yoshinon and measure her size.",
+            "Measure Yoshinon's size together with her."
           ]
         },
         "1":{
@@ -166,18 +270,19 @@
           "ending":{
             "Happy":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"You are a perfect lover",
+                "guide":[1, 2, 5, 9, 12, 13]
               },
               "1":{
-                "name":"",
-                "guide":[]
+                "name":"It's Painful",
+                "cg":"nightpark_happy.png",
+                "guide":[1, 4, 16, 19, 21]
               }
             },
             "True":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"Love Guru",
+                "guide":[1, 3, 23, 27, 30]
               },
               "1":{
                 "name":"",
@@ -213,7 +318,50 @@
               }
             }
           },
-          "text":[]
+          "text":[
+            "Look for her in the garden area.",
+            "Look for her in the amusement area.",
+
+            "They should continue their love no matter what happens.",
+            "Maybe they should be together for a bit longer",
+            "You really should have told us before leaving home",
+
+            "I'll choose love over wealth.",
+            "You really should have told us before leaving home.",
+
+            "Disguise as a thug",
+            "Make the temperature drop.",
+            "Shout \"follow your heart\" to them",
+
+            "Run away",
+            "Hide up.",
+            "Show them what they should do",
+
+            "Drag Yoshino to me and pretend to kiss her",
+            "Hold Yoshno's hand and gather her up in my arms",
+
+            "Please don't do that again.",
+            "Don't worry. I'm not mad at you at all.",
+            "Bad guys might appear.",
+
+            "Never mind! It's okay!",
+            "Maybe... dont do this!",
+
+            "Spank her twice.",
+            "Spank her once.",
+            "Spank her three times.",
+
+            "They won't break up if they really love each other.",
+            "Maybe their love will fade away over time.",
+            "Maybe they don't know each other well enough",
+
+            "I don't think we should interfere",
+            "Only time will tell.",
+            "Force them to speak their mind",
+
+            "It's dangerous out there. Let's go back home",
+            "I have a good feeling about it."
+          ]
         },
         "2":{
           "name":"Park",
@@ -271,6 +419,7 @@
             "Happy":{
               "0":{
                 "name":"Another Side of Origami",
+                "cg":"bath_happy.png",
                 "guide":[0, 4, 7, 10, 12]
               }
             },
@@ -349,13 +498,188 @@
     },
     "kurumi":{
       "data":{
-        "name":"",
+        "name":"Tokisaki Kurumi",
         "img":"https://newsimg.5054399.com/uploads/userup/1811/2314405W617.jpg"
+      },
+      "date":{
+        "0":{
+          "name":"Doll Shop",
+          "ending":{
+            "Happy":{
+              "0":{
+                "name":"Bell Cat",
+                "cg":"doll_happy.png",
+                "guide":[0, 4, 5, 9, 10, 12, 14]
+              }
+            },
+            "True":{
+              "0":{
+                "name":"There is only one truth!",
+                "guide":[0, 3, 5, 9, 10, 12, 15]
+              },
+              "1":{
+                "name":"Kurumi, do you know a certain steward ?",
+                "guide":[0, 4, 5, 9, 11, 16]
+              }
+            },
+            "Normal":{
+              "0":{
+                "name":"Crisis resolved! Crisis Resolved!",
+                "guide":[0, 4, 5, 8, 20, 23]
+              },
+              "1":{
+                "name":"You must be the new guy",
+                "guide":[2, 3, 5, 8, 20, 22]
+              },
+              "2":{
+                "name":"I was freaked out",
+                "cg":"doll_normal.png",
+                "guide":[2, 3, 5, 7, 24, 26, 30]
+              }
+            },
+            "Hidden":{
+              "0":{
+                "name":"",
+                "guide":[]
+              }
+            }
+          },
+          "text":[
+            "Anything for a chance to see Kurumi.",
+            "No, I want to cook at home",
+            "Isn't a girl going shopping perfectly a normal?",
+            "Kurumi, can I hold your hand?",
+            "Kurumi, hold my arm, don't get lost.",
+            "Pick a doll you like, Kurumi.",
+            "Buy them all!",
+            "The octopus baby in the glass cabinet.",
+            "The bunny by the door holding the candy box.",
+            "The cat mom with the scarf",
+            "Grab Kurumi and leave immediately.",
+            "Stay still and wait for Kurumi to change.",
+            "Listen to Kurumi and stop.",
+            "Continue fleeing",
+            "Why did that cat suddenly become big?",
+            "Why does Kurumi know so much about cats?",
+            "Believe it or not, the doll come alive.",
+            "Come save me baby.",
+            "If we don't leave now, we're gonna becoma cat food.",
+            "Kurumi? Where's Kurumi?",
+            "Where's the bunny I was chasing?",
+            "What should I do? How do I get back?",
+            "I want to take that bunny doll home.",
+            "I want to buy that bunny doll for Kurumi.",
+            "Help me!",
+            "Forget about me, go!",
+            "Why did the octopus go berserk?",
+            "Why is Kurumi suddenly in her Astral Dress?",
+            "Who am I, where am I? What the heck is going on?",
+            "Pick what you like [experimental]",
+            "No.",
+            "Yes."
+          ]
+        },
+        "1":{
+          "name":"Bakery",
+          "ending":{
+            "Happy":{
+              "0":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "True":{
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "Normal":{
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              },
+              "2":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "Hidden":{
+              "0":{
+                "name":"",
+                "guide":[]
+              }
+            }
+          },
+          "text":[]
+        },
+        "2":{
+          "name":"Shrine (Night)",
+          "ending":{
+            "Happy":{
+              "0":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "True":{
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              },
+              "2":{
+                "name":"",
+                "guide":[]
+              },
+              "3":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "Normal":{
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              },
+              "2":{
+                "name":"",
+                "guide":[]
+              },
+              "3":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "Hidden":{
+              "0":{
+                "name":"",
+                "guide":[]
+              }
+            }
+          },
+          "text":[]
+        }
       }
     },
     "miku":{
       "data":{
-        "name":"",
+        "name":"Miku",
         "img":"https://newsimg.5054399.com/uploads/userup/1903/24161FO546.jpg"
       },
       "date":{
@@ -385,18 +709,19 @@
                 "guide":[1, 3, 6, 23, 26]
               },
               "1":{
-                "name":"",
-                "guide":[]
+                "name":"Close Distance",
+                "guide":[1, 3, 6, 23, 25, 27]
               }
             },
             "Hidden":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"Date for Four",
+                "guide":[2, 16, 18, 19]
               },
-              "2":{
-                "name":"",
-                "guide":[]
+              "1":{
+                "name":"Lovers' clothes?",
+                "cg":"clothing_hidden.png",
+                "guide":[2, 16, 18, 20, 22]
               }
             }
           },
@@ -421,21 +746,157 @@
             "Hide first",
             "Greet them first",
             "I was dragged here by Miku...",
-            "I was choosing clothers with Miku.",
+            "I was choosing clothes with Miku.",
             "The gorgeous style chosen by Tohka",
             "The fresh style chosen by Yoshino",
             "I'm looking forward to it",
             "It's better to try on a new uniform...",
             "Rush in",
-            "As the store Staff to go in"
+            "As the store Staff to go in",
+            "Close my eyes",
+            "Push away Miku"
           ]
         }
       }
     },
     "kotori":{
       "data":{
-        "name":"",
+        "name":"Itsuka Kotori",
         "img":"https://newsimg.5054399.com/uploads/userup/1811/2314411041Y.jpg"
+      },
+      "date":{
+        "0":{
+          "name":"Bakery",
+          "ending":{
+            "Happy":{
+              "0":{
+                "name":"Kotori's Swoop",
+                "guide":[0, 5, 7, 9, 13]
+              }
+            },
+            "True":{
+              "0":{
+                "name":"Change the world for my sister",
+                "guide":[0, 5, 7, 9, 12, 16, 17]
+              },
+              "1":{
+                "name":"Capable Sister",
+                "guide":[0, 5, 6, 20, 21]
+              }
+            },
+            "Normal":{
+              "0":{
+                "name":"Usage of Milk",
+                "guide":[0, 5, 6, 19, 23, 25, 27, 30]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              },
+              "2":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "Hidden":{
+              "0":{
+                "name":"",
+                "guide":[]
+              }
+            }
+          },
+          "text":[
+            "However, is it wrong to want to date Kotori?",
+            "I promise you it won't be boring, come on!",
+            "Boohoo... Kotori is so cold",
+
+            "Kotori will always be a child in my eyes",
+            "Only a child would say something like that.",
+            "I want to protect Kotori",
+
+            "Those are sincere words from the bottom of my heart",
+            "Kotori didn't believe me. It hurts",
+            "I'm not a liar",
+
+            "Ah? At this hour? Who could it be?",
+            "Who wants to disturb my date with adorable Kotori?",
+            "Such a terrible emergency is unimaginable!",
+
+            "No way...",
+            "Long time no see",
+            "Why does it have to be today?",
+
+            "Why haven't I see Mana recently?",
+            "Why have you come here, Mana?",
+
+            "By the way, are you busy lately, Mana?",
+            "Girls, please get along...[bad end]",
+
+            "Is there anything Kotori wants to eat",
+            "Have you been busy working recently, Kotori?",
+
+            "I promise to obey orders from now on!",
+            "I was wrong, I'll try my best not to disobey you in the future",
+
+            "Chocolate cookies",
+            "Strawberry Mochi",
+
+            "I'm responsible for your safety",
+            "You must report to me when you leave home in future",
+
+            "Bring back the cookies, Kotori",
+            "I'll forgive you if you act spoiled to me, Kotori",
+
+            "Kotori, let us go get some cookies",
+            "Kotori, let me pour some milk for you"
+          ]
+        },
+        "1":{
+          "name":"School (Night)",
+          "ending":{
+            "Happy":{
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "True":{
+              "0":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "Normal":{
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              },
+              "2":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "Hidden":{
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              }
+            }
+          },
+          "text":[]
+        }
       }
     }
   }

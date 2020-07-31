@@ -1,0 +1,193 @@
+{
+	"tohka":{
+	"date": {
+        "0": {
+          "name":"Doll Shop",
+          "ending": {
+            "Happy":{
+              "0":{
+                "name":"I am the envoy from the sea",
+                "cg":"doll_happy.png",
+                "guide":[0, 5, 6, 15, 17, 19, 22, 26]
+              }
+            },
+            "Normal":{
+              "0":{
+                "name":"A wise man submits to food.",
+                "guide":[0, 3, 15, 17, 19, 21, 24]
+              },
+              "1":{
+                "name":"Sleeping Detective",
+                "cg":"doll_normal.png",
+                "guide":[0, 3, 16, 25]
+              }
+            },
+            "True":{
+              "0":{
+                "name":"Virgin Mary",
+                "guide":[0, 5, 7, 8, 12, 13]
+              },
+              "1":{
+                "name":"See the light again",
+                "guide":[0, 5, 6, 15, 17, 19, 21, 23]
+              }
+            },
+            "Hidden":{
+              "0":{
+                "name":"Great Treasure",
+                "guide":[0, 5, 7, 10]
+              }
+            }
+          },
+          "text": [
+            "It's my pleasure to date Tohka...",
+            "I'm not tired! Help me get up!",
+            "That's not true!",
+            "Mr. Rabbit might be a little tired",
+            "It's just a doll, leave it alone...",
+            "... let's forget about Mr. Rabbit for now.",
+            "Cat-eared Hairpins",
+            "Teddy bear doll",
+            "This bear smells fishy",
+            "Let's check other toys",
+            "Purchase with coupon",
+            "Sit down and rest a bit",
+            "Hand over the orange juice",
+            "Buy",
+            "Don't Buy",
+            "Remove the cat ears quietly",
+            "Reach out and touch the cat ears",
+            "Look down",
+            "Runaway",
+            "Wake up Tohka",
+            "Observe the surroundings first",
+            "Keep looking for keys",
+            "Find another way to escape",
+            "We will meet again",
+            "Sorry but I don't belong here",
+            "You can choose anything here.",
+            "Attack the eyes"
+          ],
+          "text":{
+          	"0":["It's my pleasure to date Tohka...",
+            "I'm not tired! Help me get up!",
+            "That's not true!"],
+            "1":[ "Mr. Rabbit might be a little tired",
+            "It's just a doll, leave it alone...",
+            "... let's forget about Mr. Rabbit for now."],
+            "2":["Cat-eared Hairpins",
+            "Teddy bear doll"],
+            "3":["This bear smells fishy",
+            "Let's check other toys",
+            "Purchase with coupon"],
+            "4":["Sit down and rest a bit",
+            "Hand over the orange juice"],
+            "5":["Buy",
+            "Don't Buy"],
+            "6":["Remove the cat ears quietly",
+            "Reach out and touch the cat ears"],
+            "7":["Reach out and touch the cat ears",
+            "Look down",
+            "Runaway"],
+            "8":["Wake up Tohka",
+            "Observe the surroundings first"],
+            "9":["Keep looking for keys",
+            "Find another way to escape"],
+            "10":["We will meet again",
+            "Sorry but I don't belong here"],
+            "11":["forget","forget","Attack the eyes"]
+          }
+        },
+        "1": {
+          "name":"Bakery",
+          "ending":{
+            "Happy":{
+              "0":{
+                "name":"My heart will be the crown of your glory",
+                "cg":"bakery_happy.png",
+                "guide":[2, 3, 7, 9, 12]
+              }
+            },
+            "True":{
+              "0":{
+                "name":"Some says sakura falls at five centimeters per second.",
+                "cg":"bakery_true.png",
+                "guide":[2, 4, 14, 16]
+              },
+              "1":{
+                "name":"That kind of things, I can teach you all!",
+                "guide":[2, 3, 6, 18, 21]
+              }
+            },
+            "Normal":{
+              "0":{
+                "name":"",
+                "guide":[2, 3, 6, 19]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              },
+              "2":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "Hidden":{
+              "0":{
+                "name":"",
+                "guide":[]
+              }
+            }
+          },
+          "text":[
+            "Must be the spoiled food I ate last night, damn it!",
+            "I couldn't too run fast due to my injury.",
+            "Impressive! Good work, Tohka!",
+            "We can stroll around first!",
+            "Then we'll have to wait in line at bakery.",
+            "Ask Kotori for help",
+            "It's an evil ritual to summon the Bread Devil.",
+            "It's a contest to see who can eat the most kinako bread.",
+            "Origami, let's team up!",
+            "How about you two team up",
+            "Remember the promise made to Kurumi",
+            "Pray silently",
+            "Cheer for them",
+            "Deluxe cheese bread family pack",
+            "Cherry bean paste bread",
+            "Kinako Bread",
+            "Can you taste the bean paste?",
+            "Can you taste cherry blossoms?",
+            "Is kinako bread really that delicious?",
+            "If kinako bread and I fell into the river at the same time, who would Tohka save first?",
+            "Of course, I also need to take care of my younger sister at home.",
+            "I'll teach you everything you don't know!",
+            "That's why we shouldn't be fastidious about food ~"
+          ]
+        },
+        "2": {
+          "name":"Supermarket",
+          "ending":{
+            "Happy":{
+              "0":{},
+              "1":{}
+            },
+            "True":{
+              "0":{}
+            },
+            "Normal":{
+              "0":{},
+              "1":{},
+              "2":{}
+            },
+            "Hidden":{
+              "0":{},
+              "1":{}
+            }
+          },
+          "text":[]
+        }
+      }
+	}
+}
