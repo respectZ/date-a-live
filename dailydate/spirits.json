@@ -368,7 +368,7 @@
               },
               "2":{
                 "name":"",
-                "guide":[]
+                "guide":[1, 3, 25]
               }
             },
             "Normal":{
@@ -381,8 +381,8 @@
                 "guide":[]
               },
               "2":{
-                "name":"",
-                "guide":[]
+                "name":"Spotted! Playboy",
+                "guide":[1, 3, 25, 35, 38]
               },
               "3":{
                 "name":"",
@@ -444,7 +444,14 @@
             "Let's go home. I'll cook delicious food for you!",
 
             "Warming Crispy Rice Cake.",
-            "Courageous Hero Fried Chicken."
+            "Courageous Hero Fried Chicken.",
+
+            "I would say that is possible...",
+            "Maybe they will break up because of some minor things",
+
+            "I'm not a playboy! Not in the slightest!",
+            "Speaking of that, I... I...",
+            "Speaking of that, I have someone that I like the most"
           ]
         },
         "2":{
@@ -569,8 +576,8 @@
             "Sweet Sauce",
             "From here, you have to choose the remaining one that doesn't blink",
 
-            "hankerchief",
-            "handchuffs",
+            "Pick up the hankerchief",
+            "Pick up the handchuffs",
             "Pick up the tape [Wait until the new option appeared]",
 
             "Special... special hobby?!",
@@ -593,13 +600,252 @@
           ]
         },
         "1":{
-          "name":"Flower Store (Night)"
+          "name":"Flower Store (Night)",
+          "ending":{
+            "Happy":{
+              "0":{
+                "name":"Gift",
+                "cg":"flower_night_happy.png",
+                "guide":[2, 4, 5, 7, 9, 13, 14, 17]
+              }
+            },
+            "True":{
+              "0":{
+                "name":"Sunny after Rain",
+                "guide":[2, 4, 6, 20, 21, 23, 25]
+              },
+              "1":{
+                "name":"Zero Distance Temperature",
+                "guide":[2, 4, 6, 20, 22, 12, 28]
+              },
+              "2":{
+                "name":"Witness of Bonds",
+                "guide":[2, 4, 6, 20, 22, 13, 29, 32]
+              },
+              "3":{
+                "name":"Flower and Girl",
+                "guide":[2, 3, 36, 37, 39, 41]
+              }
+            },
+            "Normal":{
+              "0":{
+                "name":"Sincere Thanks",
+                "guide":[2, 3, 34, 45, 46, 49, 52]
+              },
+              "1":{
+                "name":"Running in the Rain",
+                "guide":[2, 3, 33, 53, 56, 58, 60]
+              },
+              "2":{
+                "name":"Overflowing Emotion",
+                "guide":[2, 3, 33, 53, 55, 61]
+              },
+              "3":{
+                "name":"Hard to Decide",
+                "guide":[2, 3, 36, 38, 40, 43]
+              }
+            },
+            "Hidden":{
+              "0":{
+                "name":"Night Butterfly",
+                "cg":"flower_night_hidden.png",
+                "guide":[2, 3, 33, 53, 56, 58, 59, 64]
+              }
+            }
+          },
+          "text":[
+            "I was looking at a frame decorated with dried flowers.",
+            "I was looking at the tied bouquet.",
+            "Nothing special really.",
+
+            "I prefer fresh flowers.",
+            "I prefer dried flowers.",
+
+            "Like it because its special... hmm, you could say that.",
+            "No, because it reminds me of Origami",
+
+            "DIY seems more meaningful",
+            "The process seems complicated, perhaps it's better to buy finished product directly.",
+
+            "Time is more important, the frame is better.",
+            "Though it can't last, the wreath suits Origami better.",
+            "Which one do you prefer, Origami?",
+
+            "Then we will be counting on you, owner.",
+            "We can make it by ourselves, according to the manual.",
+
+            "Catch Origami",
+            "Hold the table",
+            "Grab the frame",
+
+            "Help Origami dress her wound!",
+            "Take Origami to the hospital!",
+
+            "You have the same scent!",
+            "It's a feeling!",
+
+            "Because there are gentle flowers behind the cold glass.",
+            "Because the glass is hard and fragile, it protects the flowers yet also hurts them.",
+
+            "What design does Origami want?",
+            "Then we will buy this one!",
+
+            "I'll let Origami decide!",
+            "There was indeed a design that I preferred...",
+
+            "Origami is already much better than me.",
+            "Origami is Origami, there is no need to compare with others.",
+
+            "Hold Origami's hand",
+            "Origami, wait a minute!",
+
+            "Sorry, I took hold Origami's hand before I knew it...",
+            "Origami is working so hard, I can't stay out of it...",
+
+            "[Limited Time] Snapdragon",
+            "[Limited Time] Hyacinth",
+
+            "[Wait for time runs out] Lily",
+            "[Wait for time runs out] Four leaf clover",
+
+            "I believe four leaf clovers will bring good luck!",
+            "Everyone has a different opinion.",
+
+            "Maybe so",
+            "Origami's own opinions are more important",
+
+            "Choose a white wreath",
+            "Choose a red wreath",
+            "Choose a blue wreath",
+
+            "Pure love.",
+            "Unpronounced love.",
+
+            "If one feels love, then the other should be told.",
+            "The notion of burying love in one's mind is understandable",
+
+            "...",
+            "Anyway, you two, calm down first!",
+            "Maybe you should go home first, Tohka",
+
+            "Then, I'll escort Tohka home first",
+            "Then, I'll escort Origami home first.",
+
+            "Does this kind of topic make you uncomfortable, Origami?",
+            "After all, the snapdragon reminds me of...",
+
+            "Would you like to befriend more people?",
+            "Anyone you want to get close to?",
+
+            "Origami's effort was the most important thing.",
+            "I don't think t looks bad.",
+
+            "Since it's Origami's request...",
+            "Hmm...",
+
+            "Snapdragon, lily, hyacinth",
+            "Lily, hyacinth, snapdragon",
+            "Hyacinth, lily, snapdragon",
+
+            "Wave near the shoulder",
+            "Wave near the chest"
+          ]
         },
         "2":{
-          "name":"Bakery"
+          "name":"Bakery",
+          "ending":{
+            "Happy":{
+              "0":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "True":{
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "Normal":{
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              },
+              "2":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "Hidden":{
+              "0":{
+                "name":"",
+                "guide":[]
+              }
+            }
+          },
+          "text":[]
         },
         "3":{
-          "name":"Beach Resort"
+          "name":"Beach Resort",
+          "ending":{
+            "Happy":{
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              },
+              "2":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "True":{
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "Normal":{
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              },
+              "2":{
+                "name":"",
+                "guide":[]
+              }
+            },
+            "Hidden":{
+              "0":{
+                "name":"",
+                "guide":[]
+              },
+              "1":{
+                "name":"",
+                "guide":[]
+              }
+            }
+          },
+          "text":[]
         }
       }
     },
