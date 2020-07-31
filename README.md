@@ -13,20 +13,24 @@ https://respectz.github.io/date-a-live/dailydate/
 # Daily Date Progress
 ## Yatogami Tohka
 * ~~Doll Shop~~ Done
-* Bakery
-* Supermarket
+* ~~Bakery~~ Done
+* ~~Supermarket~~ Done
 ## Himekawa Yoshino
-* Doll Shop *3/7*
-* Park at Night
-* Park
+* ~~Doll Shop~~ Done
+* Park at Night *3/10*
+* Park not available yet
 ## Tobichii Origami
 * Bath House *2/7*
-* Flower Store (Night)
-* Bakery
-* Beach Resort
+* Flower Store (Night) not available yet
+* Bakery not available yet
+* Beach Resort not available yet
 ## Tokisaki Kurumi
+* Doll Shop *6/7*
+* Bakery not available yet
+* Shrine (Night) not available yet
 ## Miku
-* Clothing Store *4/7*
+* ~~Clothing Store~~ Done
 ## Itsuka Kotori
-
+* Bakery *4/7*
+* School (Night) not available yet
 i suck at front-end no complaint 

@@ -153,23 +153,101 @@
           "name":"Supermarket",
           "ending":{
             "Happy":{
-              "0":{},
-              "1":{}
+              "0":{
+                "name":"Cook Tohka",
+                "cg":"supermarket_happy.png",
+                "guide":[1, 3, 5, 8, 10, 11]
+              },
+              "1":{
+                "name":"Foodie Tohka",
+                "guide":[1, 4, 13, 16, 18]
+              }
             },
             "True":{
-              "0":{}
+              "0":{
+                "name":"Love for You",
+                "guide":[1, 4, 14, 8, 20, 24, 12]
+              }
             },
             "Normal":{
-              "0":{},
-              "1":{},
-              "2":{}
+              "0":{
+                "name":"It's my duty to protect Tohka",
+                "guide":[1, 4, 14, 7, 26, 28, 30]
+              },
+              "1":{
+                "name":"Protect Tohka's smile",
+                "guide":[1, 4, 14, 7, 26, 28, 31]
+              },
+              "2":{
+                "name":"Unique Taste",
+                "guide":[1, 4, 14, 8, 20, 22]
+              }
             },
             "Hidden":{
-              "0":{},
-              "1":{}
+              "0":{
+                "name":"New bakery idea found",
+                "cg":"supermarket_hidden.png",
+                "guide":[1, 4, 13, 16, 19]
+              },
+              "1":{
+                "name":"I have a pet!",
+                "guide":[1, 3, 6, 33, 35]
+              }
             }
           },
-          "text":[]
+          "text":[
+            "You can leave these things to me ~",
+            "Then I'll be counting on you, Tohka ~",
+            "Let's do as Tohka said today",
+
+            "Let's go to the supermarket first",
+            "Let's go to the bakery and buy some",
+
+            "It's rare for us to eat western cuisine, let's buy some steak",
+            "I'm good at cooking home dishes, let's buy some fish",
+
+            "But only kids would sit there...",
+            "Then I will sit inside!",
+
+            "Would you like to buy some snacks?",
+            "Then let's go home and cook together!",
+
+            "Because I have special skills",
+            "Because you have to do it attentively",
+
+            "There are many delicious foods in the supermarket too ~",
+            "Then we should wait here.",
+
+            "We will go home as soon as we have bought the fish!",
+            "How about eating something first?",
+
+            "Don't eat so much, you might choke on it.",
+            "I'll buy some if you like them",
+            "Tohka seems really hungry...",
+
+            "Would you like to buy some snacks?",
+            "Then let's go home and cook together!",
+
+            "Take wasabi flavor or Take cucumber flavor",
+            "Take cucumber flavor",
+            "Take original flavor [Limited Time]",
+
+            "Stop the shopping cart",
+            "Be careful of the slippery floor [Limited Time, but I tried to didn't chose anything and still worked]",
+            "Be careful not to hit someone",
+
+            "Stand in front of Tohka",
+            "Catch the box",
+
+            "I'm not afraid of Tohka causing trouble",
+            "I don't consider things like this to be trouble",
+
+            "These are inedible...",
+            "These are basically pets...",
+
+            "Feed them on time",
+            "Be responsible for them"
+          ]
         }
       }
     },
