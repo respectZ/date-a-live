@@ -20,13 +20,13 @@ https://respectz.github.io/date-a-live/dailydate/
 * Park at Night *3/10*
 * Park not available yet
 ## Tobichii Origami
-* Bath House *2/7*
+* ~~Bath House~~ Done
 * Flower Store (Night) not available yet
 * Bakery not available yet
 * Beach Resort not available yet
 ## Tokisaki Kurumi
-* Doll Shop *6/7*
-* Bakery not available yet
+* ~~Doll Shop~~ Done
+* Bakery not *4/7*
 * Shrine (Night) not available yet
 ## Miku
 * ~~Clothing Store~~ Done
