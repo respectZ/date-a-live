@@ -31,6 +31,7 @@ https://respectz.github.io/date-a-live/dailydate/
 ## Miku
 * ~~Clothing Store~~ Done
 ## Itsuka Kotori
-* Bakery *4/7*
+* ~~Bakery~~ Done
 * School (Night) not available yet
-i suck at front-end no complaint 
+
+# i suck at front-end no complaint 

@@ -1194,18 +1194,19 @@
                 "guide":[0, 5, 6, 19, 23, 25, 27, 30]
               },
               "1":{
-                "name":"",
-                "guide":[]
+                "name":"Cutest when You Smile",
+                "guide":[0, 5, 6, 19, 24, 31, 33, 35]
               },
               "2":{
-                "name":"",
-                "guide":[]
+                "name":"Do Whatever She Wants",
+                "guide":[0, 5, 6, 20, 22]
               }
             },
             "Hidden":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"How can my little sister be so cute",
+                "cg":"bakery_hidden.png",
+                "guide":[0, 5, 6, 19, 24, 31, 34, 38, 41]
               }
             }
           },
@@ -1252,7 +1253,23 @@
             "I'll forgive you if you act spoiled to me, Kotori",
 
             "Kotori, let us go get some cookies",
-            "Kotori, let me pour some milk for you"
+            "Kotori, let me pour some milk for you",
+
+            "Kotori is adorable in all circumstances!",
+            "It would take some time to get used to the current situation.",
+
+            "Then let's do something that's not boring",
+            "Because it's still afternoon tea time.",
+
+            "I always have a plan to cope with Kotori",
+            "That's how witty your brother is",
+
+            "Kotori had been busy with work lately and I felt disconnected",
+            "I want to date Kotori",
+            "I want to be with Kotori",
+
+            "Kotori should take responsibility for my pants",
+            "Kotori, what are you doing!?"
           ]
         },
         "1":{
