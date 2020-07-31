@@ -367,32 +367,33 @@
                 "guide":[1, 4, 15, 32, 33]
               },
               "2":{
-                "name":"",
-                "guide":[1, 3, 25]
+                "name":"Inversed Ending",
+                "guide":[1, 3, 25, 35, 39]
               }
             },
             "Normal":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"Ara, my cover is blown",
+                "guide":[1, 2, 5, 7, 40]
               },
               "1":{
-                "name":"",
-                "guide":[]
+                "name":"What a good parent",
+                "guide":[1, 3, 23, 27, 29]
               },
               "2":{
                 "name":"Spotted! Playboy",
                 "guide":[1, 3, 25, 35, 38]
               },
               "3":{
-                "name":"",
-                "guide":[]
+                "name":"That's too casual",
+                "guide":[1, 4, 15, 32, 34]
               }
             },
             "Hidden":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"Get Together Again",
+                "cg":"nightpark_hidden.png",
+                "guide":[1, 2, 5, 8, 44]
               }
             }
           },
@@ -451,7 +452,17 @@
 
             "I'm not a playboy! Not in the slightest!",
             "Speaking of that, I... I...",
-            "Speaking of that, I have someone that I like the most"
+            "Speaking of that, I have someone that I like the most",
+
+            "Stop them without any hesitation",
+            "Leave them alone",
+
+            "Maybe it's just a fleeting crush",
+            "Maybe they've met someone they love more",
+
+            "Intensify the coldness",
+            "Give up",
+            "Summon a tiny snowstorm"
           ]
         },
         "2":{

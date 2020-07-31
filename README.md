@@ -17,11 +17,11 @@ https://respectz.github.io/date-a-live/dailydate/
 * ~~Supermarket~~ Done
 ## Himekawa Yoshino
 * ~~Doll Shop~~ Done
-* Park at Night *3/10*
+* ~~Park at Night~~ Done
 * Park not available yet
 ## Tobichii Origami
 * ~~Bath House~~ Done
-* Flower Store (Night) not available yet
+* ~~Flower Store (Night)~~ Done
 * Bakery not available yet
 * Beach Resort not available yet
 ## Tokisaki Kurumi
