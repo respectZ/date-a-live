@@ -18,7 +18,7 @@ https://respectz.github.io/date-a-live/dailydate/
 ## Himekawa Yoshino
 * ~~Doll Shop~~ Done
 * ~~Park at Night~~ Done
-* Park not available yet
+* ~~Park~~ Done
 ## Tobichii Origami
 * ~~Bath House~~ Done
 * ~~Flower Store (Night)~~ Done
@@ -32,6 +32,6 @@ https://respectz.github.io/date-a-live/dailydate/
 * ~~Clothing Store~~ Done
 ## Itsuka Kotori
 * ~~Bakery~~ Done
-* School (Night) not available yet
+* ~~School (Night)~~ *2/8*
 
 # i suck at front-end no complaint 
