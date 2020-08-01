@@ -811,96 +811,211 @@
           "ending":{
             "Happy":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"We are in this together",
+                "guide":[2, 5, 7, 8, 11, 14]
               }
             },
             "True":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"Turns out AST is not what I think it is",
+                "guide":[2, 5, 7, 9, 16]
               },
               "1":{
-                "name":"",
-                "guide":[]
+                "name":"The right way to feed",
+                "cg":"bakery_true.png",
+                "guide":[2, 5, 7, 10, 19, 22, 24]
               }
             },
             "Normal":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"I'd take it even it is poisonous",
+                "guide":[2, 5, 7, 10, 20, 27, 28]
               },
               "1":{
-                "name":"",
-                "guide":[]
+                "name":"Maybe that's my destiny",
+                "guide":[2, 5, 7, 10, 20, 27, 29, 30, 32]
               },
               "2":{
-                "name":"",
-                "guide":[]
+                "name":"Fight for the fate of human!",
+                "guide":[2, 5, 7, 8, 12, 13]
               }
             },
             "Hidden":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"Origami, Don't...",
+                "cg":"bakery_hidden.png",
+                "guide":[2, 5, 7, 9, 17]
               }
             }
           },
-          "text":[]
+          "text":[
+            "I'm to tired to do it today.",
+            "I don't remember that I promised you.",
+            "All right, you mean right now?",
+
+            "Let's visit the bakery and see if there is any delicious bread.",
+            "I want to buy some bread, shall we go together?",
+            "We could just stroll around the streets!",
+
+            "I'm all yours, don't rush.",
+            "Origami is scary.",
+
+            "Kinako Bread",
+            "Milk filling toast",
+            "Chocolate bread",
+
+            "There are many good Spirits.",
+            "Because I like Spirits.",
+
+            "Strive for peace.",
+            "Take the side of the human.",
+            "Protect the Spirits.",
+
+            "I like drinking milk made from milk powder.",
+            "Origami! Please let me drink it.",
+
+            "I had eaten chocolate for years and I didn't feel it at all.",
+            "Knowledge acquired, so I often eat aphrodisiac stuff",
+            "Would Origami save me if I was aphrodisiac?",
+
+            "Feed Origami bread",
+            "Let Origami feed me a chocolate stick",
+
+            "Lean back and avoid Origami",
+            "Continue to bite the chocolate stick forward",
+
+            "Never.",
+            "Maybe the next second.",
+            "I don't know.",
+
+            "Eat, whatever Origami cooked",
+            "Refuse... Origami's cooking is scary",
+
+            "Pretend that nothing has happened.",
+            "Kneel and hug Tohka's thigh, begging for forgiveness.",
+
+            "Dating Origami is my mission",
+            "I date Origami for AST intel"
+          ]
         },
         "3":{
           "name":"Beach Resort",
           "ending":{
             "Happy":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"Hold Her Tight",
+                "guide":[0, 4, 6, 10, 12]
               },
               "1":{
-                "name":"",
-                "guide":[]
+                "name":"The Lovers",
+                "guide":[2, 5, 14, 16, 19, 20]
               },
               "2":{
-                "name":"",
-                "guide":[]
+                "name":"Right Way to Apply Lotion",
+                "cg":"beach_happy.png",
+                "guide":[2, 3, 22, 24, 28]
               }
             },
             "True":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"Swimsuit of Scheme",
+                "cg":"beach_true.png",
+                "guide":[2, 4, 6, 9, 31]
               },
               "1":{
-                "name":"",
-                "guide":[]
+                "name":"Your Mission",
+                "guide":[2, 4, 8, 32, 35]
               }
             },
             "Normal":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"Change Pose Next Time",
+                "guide":[2, 3, 22, 24, 26]
               },
               "1":{
-                "name":"",
-                "guide":[]
+                "name":"Make Your Wish Come True",
+                "guide":[2, 4, 6, 10, 11]
               },
               "2":{
-                "name":"",
-                "guide":[]
+                "name":"Odd Way to Apply Lotion?",
+                "guide":[0, 3, 22, 25, 36, 39]
               }
             },
             "Hidden":{
               "0":{
-                "name":"",
-                "guide":[]
+                "name":"Super Dinner",
+                "guide":[2, 5, 15, 40, 42]
               },
               "1":{
-                "name":"",
-                "guide":[]
+                "name":"Legend of Shells",
+                "guide":[2, 5, 15, 40, 43]
               }
             }
           },
-          "text":[]
+          "text":[
+            "Let Origami hold my hand",
+            "Dodge without any trace",
+            "Hold her hand instead",
+
+            "The sunlight is too dazzling now, I'll go swim later.",
+            "If Origami wants to go, I can accompany you",
+            "I want to see the sea first",
+
+            "[Limited Time] It's a rare oppurtinity, let the water hit Origami",
+            "[Limited Time] Stop Hiroto from splashing water",
+            "[Limited Time] Block the water for Origami",
+
+            "Let Tohka go with you",
+            "I'll go with you to the changing room's door",
+
+            "I hope you and the Spirits can live in peace",
+            "If there is a conflict, I hope you won't get hurt, Origami",
+            "If there is a conflict, I hope you don't hurt those who are without Spirit powers",
+
+            "Sorry, I'll go take photos with Origami first.",
+            "Origami, how about we go collect shells with Tohka",
+
+            "Silently agree",
+            "We are just classmates",
+
+            "Forget about it.",
+            "Participate in the contest.",
+
+            "Buy couple photos",
+            "Don't buy",
+
+            "A skin care product that prevent your skin from sunburn",
+            "A military-grade protective equipment",
+
+            "Origami, you can apply it yourself.",
+            "Are you sure?",
+
+            "Because I don't like this posture",
+            "Because Tohka is watching",
+            "Because something unexpected might happen if I lost control...",
+
+            "Pink laced girlish style shoud be suitable",
+            "You can wear blue today, the color of ocean",
+            "Origami looks good in anything",
+
+            "Yes, I will protect you",
+            "No, I will make sure you are not in danger.",
+
+            "Yes, I will protect you even if the danger comes from a Spirit",
+            "I'll try to stop the Spirits.",
+
+            "Do what Origami asks",
+            "I rally can't...",
+
+            "Apply sunscreen lotion to Tohka again.",
+            "Please spare me this torture.",
+
+            "Okay, I'll carry you.",
+            "See if Origami's feet are injured",
+
+            "I think I'll go and help dig seashells.",
+            "Sounds like a special legend, I'll try to find it."
+          ]
         }
       }
     },

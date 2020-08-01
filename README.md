@@ -22,8 +22,8 @@ https://respectz.github.io/date-a-live/dailydate/
 ## Tobichii Origami
 * ~~Bath House~~ Done
 * ~~Flower Store (Night)~~ Done
-* Bakery not available yet
-* Beach Resort not available yet
+* ~~Bakery~~ Done
+* ~~Beach Resort~~ Done
 ## Tokisaki Kurumi
 * ~~Doll Shop~~ Done
 * Bakery not *4/7*
