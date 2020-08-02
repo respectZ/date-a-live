@@ -32,6 +32,6 @@ https://respectz.github.io/date-a-live/dailydate/
 * ~~Clothing Store~~ Done
 ## Itsuka Kotori
 * ~~Bakery~~ Done
-* ~~School (Night)~~ *2/8*
+* ~~School (Night)~~ Done
 
 # i suck at front-end no complaint 
