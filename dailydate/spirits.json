@@ -1228,6 +1228,7 @@
               },
               "3":{
                 "name":"Wanna Date You Again",
+                "cg":"shrine_true.png",
                 "guide":[25, 26, 27]
               }
             },
@@ -1252,6 +1253,7 @@
             "Hidden":{
               "0":{
                 "name":"Thanks for Finding It for Me",
+                "cg":"shrine_hidden.png",
                 "guide":[0, 6, 7, 8, 10]
               }
             }
