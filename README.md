@@ -1,11 +1,12 @@
 # date-a-live
 Date A Live: Spirit Pledge Toolbox
 
+To Do :
+* Others
+
 Note : 
 I do not own all of these images.
 All images belongs to the original creators.
-
-Still WIP
 
 Preview:
 https://respectz.github.io/date-a-live/dailydate/
@@ -26,8 +27,8 @@ https://respectz.github.io/date-a-live/dailydate/
 * ~~Beach Resort~~ Done
 ## Tokisaki Kurumi
 * ~~Doll Shop~~ Done
-* Bakery not *4/7*
-* Shrine (Night) not available yet
+* ~~Bakery not~~ Done
+* ~~Shrine (Night)~~ Done
 ## Miku
 * ~~Clothing Store~~ Done
 ## Itsuka Kotori
