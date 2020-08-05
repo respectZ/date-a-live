@@ -72,7 +72,7 @@ function loadGuide(spirit, location, route, int) {
     $("div").remove(".cg");
 
     for (var i = 0; i < data.spirit[spirit].date[location].ending[route][int].guide.length; i++) {
-        console.log(i);
+        //console.log(i);
         var guide = document.createElement('li');
         guide.classList.add('guidebox');
         guide.innerHTML = data.spirit[spirit].date[location].text[data.spirit[spirit].date[location].ending[route][int].guide[i]];
@@ -144,7 +144,7 @@ function loadLocation(spirit) {
         $(this).css('background', '#ca3e47');
         if (selectedLocation != '') {
             $('#' + selectedLocation).css('background', '#313131');
-            console.log('ayy ' + selectedLocation);
+            //console.log('ayy ' + selectedLocation);
         }
         selectedLocation = this.id;
         $('#routelist').html('');
