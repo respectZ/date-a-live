@@ -121,7 +121,7 @@ function loadRoute(spirit, location) {
 }
 
 function loadLocation(spirit) {
-
+    loadFavorite(spirit);
     for (var i in data.spirit[spirit].date) {
         let location = document.createElement('li');
         location.classList.add('routebox');
@@ -151,6 +151,13 @@ function loadLocation(spirit) {
         loadRoute(selected, this.id.substring(1));
         $('#routelist').show();
     });
+}
+
+function loadFavorite(spirit) {
+    document.getElementById('gift1').style.content = 'url("gift/' + data.spirit[spirit].data.like.gift[0] + '.png")';
+    document.getElementById('gift2').style.content = 'url("gift/' + data.spirit[spirit].data.like.food[0] + '.png")';
+    $('#gift1d').html(data.spirit[spirit].data.like.gift[1])
+    $('#gift2d').html(data.spirit[spirit].data.like.food[1])
 }
 
 document.addEventListener('DOMContentLoaded', function() {

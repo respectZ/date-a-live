@@ -79,6 +79,28 @@ header li {
   width: auto;
 }
 
+.gift {
+  display: inline-grid;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+#gift1 {
+  width: 50px;
+  border-radius: 100%;
+  display: inline-grid; 
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+#gift2 {
+  width: 50px;
+  border-radius: 100%;
+  display: inline-grid; 
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
 @media only screen and (max-device-width: 768px) {
 /* Styles */
 .selection {
@@ -151,7 +173,8 @@ header li {
 }
 
 .poppedcg {
-  height: 75vh;
+  max-height: 75vh;
+  max-width: 75vw;
   margin: 0 auto;
   animation: zoomin 0.5s;
   animation-fill-mode: forwards;

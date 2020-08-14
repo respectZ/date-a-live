@@ -3,6 +3,7 @@ Date A Live: Spirit Pledge Toolbox
 
 To Do :
 * Others
+* Proper Gift Icon
 
 Note : 
 I do not own all of these images.
