@@ -151,7 +151,7 @@ header li {
 }
 
 .poppedcg {
-  width: 87vw;
+  height: 75vh;
   margin: 0 auto;
   animation: zoomin 0.5s;
   animation-fill-mode: forwards;

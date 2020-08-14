@@ -8,6 +8,8 @@ Note :
 I do not own all of these images.
 All images belongs to the original creators.
 
+[Decrypted CG](https://github.com/n0k0m3/DALSP-Assets-Decryption-tool)
+
 Preview:
 https://respectz.github.io/date-a-live/dailydate/
 
