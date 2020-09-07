@@ -1,0 +1,220 @@
+@font-face {
+    font-family: 'ekcqw_gbkregular';
+    src: url('fzzy_gbk-webfont.woff2') format('woff2'),
+        url('fzzy_gbk-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+    font-family: 'ekcqw_gbkregular';
+    overflow: hidden;
+}
+
+#settingButton {
+    transition: all 0.5s ease;
+}
+
+
+.l2dv3-sidenav {
+    background-color: #313131;
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    right: -250px;
+    overflow-x: hidden;
+    transition: 0.5s ease;
+    color: #fff;
+    padding-top: 10px;
+    padding-left: 0px;
+}
+
+.subtitleContainer {
+    display: block;
+    position: absolute;
+    height: 60px;
+    z-index: 32;
+
+    bottom: 40px;
+    left: 50%;
+}
+@media only screen and (max-device-width: 768px) {
+    .subtitleContainer {
+        bottom: 80px;
+    }
+}
+
+.subtitleTable {
+    position: relative;
+    left: -50%;
+    background-color: rgba(0, 0, 0, 0.4);
+    width: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.subtitle {
+    display: none;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'ekcqw_gbkregular';
+    text-shadow: 2px 2px 6px black;
+    color: white;
+    font-size: 30px;
+}
+
+.subtitle.in {
+    animation: fadein 0.5s;
+    transition-timing-function: ease;
+}
+
+.subtitle.out {
+    animation: fadeout 0.5s;
+    transition-timing-function: ease;
+}
+
+@keyframes fadein {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeout {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.bgSelectorContainer {
+    display: none;
+    left: 0;
+    top: 0;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 3;
+}
+
+.bgSelectorContainer.out {
+    animation: fadeout 0.3s;
+    transition-timing-function: ease
+}
+
+.bgSelectorContainer.in {
+    animation: fadein 0.3s;
+    transition-timing-function: ease
+}
+
+.bgSelectorContainerTable {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.bgSelectorUI {
+    margin-left: auto;
+    margin-right: auto;
+    width: 88vw;
+    height: 88vh;
+    background-color: #313131;
+    color: #fff;
+    display: grid;
+}
+
+.bgSelectorCloseButton {
+    position: relative;
+    text-align: right;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.bgCategoryContainer {
+    height: 30px;
+    display: table;
+    width: 100%;
+}
+
+.bgCategory {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    width: 50%;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+.bgCategory.selected {
+    background-color: #ca3e47;
+}
+
+.title {
+    height: 30px;
+    border-bottom: 1px solid #ca3e47;
+    text-align: center;
+    font-size: 20px;
+    display: grid;
+    grid-template-columns: auto 20px;
+}
+
+.selector {
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+    height: auto;
+    margin-bottom: 0px;
+    align-content: flex-start;
+    justify-content: center;
+}
+
+.l2dv3-thumb {
+    max-width: 25vw;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 20px;
+    align-self: baseline;
+}
+
+.customButton {
+    background-color: #ca3e47;
+    border: 1px solid #ca3e47;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    padding: 5px 13px;
+    text-decoration: none;
+    text-shadow: 0px -1px 0px #7a2a1d;
+}
+
+.customButton:hover {
+    background-color: #ca3e47;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #ca3e47; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #ca3e47; 
+}

@@ -1,41 +1,24 @@
 # date-a-live
 Date A Live: Spirit Pledge Toolbox
 
-To Do :
-* Others
-* Proper Gift Icon
+To do :
+* Live2D (l2d in /bust/ folder)
+* idk
 
 Note : 
-I do not own all of these images.
-All images belongs to the original creators.
+I do not own all of these assets.
+All assets belongs to the original creators.
 
 [Decrypted CG](https://github.com/n0k0m3/DALSP-Assets-Decryption-tool)
 
-Preview:
+Main Page:
 https://respectz.github.io/date-a-live/dailydate/
 
-# Daily Date Progress
-## Yatogami Tohka
-* ~~Doll Shop~~ Done
-* ~~Bakery~~ Done
-* ~~Supermarket~~ Done
-## Himekawa Yoshino
-* ~~Doll Shop~~ Done
-* ~~Park at Night~~ Done
-* ~~Park~~ Done
-## Tobichii Origami
-* ~~Bath House~~ Done
-* ~~Flower Store (Night)~~ Done
-* ~~Bakery~~ Done
-* ~~Beach Resort~~ Done
-## Tokisaki Kurumi
-* ~~Doll Shop~~ Done
-* ~~Bakery not~~ Done
-* ~~Shrine (Night)~~ Done
-## Miku
-* ~~Clothing Store~~ Done
-## Itsuka Kotori
-* ~~Bakery~~ Done
-* ~~School (Night)~~ Done
+Daily Date:
+https://respectz.github.io/date-a-live/dailydate.html
+
+Live2DV3 (.moc3) Viewer:
+https://respectz.github.io/date-a-live/live2dv3.html
 
 # i suck at front-end no complaint 
+# Svdex#1555

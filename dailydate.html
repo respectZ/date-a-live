@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Date A Live: Spirit Pledge Daily Date</title>
+	<link href="css/main.css" rel="stylesheet">
+	<link href="css/dailydate.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/live2d_page.css">
+
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	
+
+	<script type="text/javascript" src="js/utility.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+	<script type="text/javascript" src="js/scrollspy.js"></script>
+	
+	<script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.min.js"> </script>
+    <script src="https://cdn.jsdelivr.net/npm/howler@2.1.3/dist/howler.min.js"></script>
+    <script src="https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/5.1.3/pixi.min.js"></script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/png" href="icon/ic.png" />
+	<meta name="og:title" content="Date A Live: Spirit Pledge Daily Date"/>
+	<meta property="og:url" content="https://respectz.github.io/date-a-live/dailydate" />
+	<meta name="og:image" content="https://respectz.github.io/date-a-live/icon/ic.png"/>
+	<meta name="keywords" content="guide, datealive"/>
+	<meta name="description" content="Daily Date Guide for Date a Live: Spirit Pledge"/>
+</head>
+<body>
+
+<!-- header-->
+<header>
+	<nav>
+		<ul>
+			<li id="buttonNav">&#9776;</li>
+			<li>Date A Live: Spirit Pledge Toolbox</li>
+		</ul>
+	</nav>
+</header>
+
+<!--sidenav-->
+<div id="mySidenav" class="sidenav">
+	<ul class="nolist pagenav" style="padding-left:0px;margin-top: 10px;">
+		<li ><a href="index.html">Main</a></li>
+		<li>Guides</li>
+		<ul class="nolist pagenav">
+			<li class="selected"><a href="dailydate.html">Daily Date</a></li>
+		</ul>
+		<li>Tools</li>
+		<ul class="nolist pagenav">
+			<li><a href="live2dv3.html">Live2D V3 Viewer</a></li>
+		</ul>
+	</ul>
+</div>
+
+<!--main-->
+<div id="main-content">
+<div class='wrapper'>
+	<div class='left'>
+	</div>
+	<div class='right'>
+		<div class='truright'>
+			<div class="gift">
+				Favorites
+				<ul style="list-style-type: none;padding-left: 0;">
+					<li style="margin-bottom: 20px;">
+						<div id="gift1"></div><span id="gift1d"></span>
+					</li>
+
+					<li>
+						<div id="gift2"></div><span id="gift2d"></span>
+					</li>
+				</ul>
+			</div>
+		<div class="selection">
+			<div id="date1">
+				Avaiable Location(s):
+				<ul id="locationlist">
+				</ul>
+			</div>
+		<div id="date2">
+				Available Route(s):
+				<ul id="routelist">
+				<ul>
+		</div>
+
+		</div>
+
+		<div class="guide">
+			<div id="edinfo">
+				<p id="name"></p>
+			</div>
+			Option(s):
+			<ul id="guidelist">
+			</ul>
+		</div>
+		</div>
+	</div>
+	
+</div>
+<div class="popup hidden">
+	<div class="poptable">
+		<div class="poppedcg"></div>
+	</div>
+</div>
+
+<div class="loadingcontainer">
+	<div class="loadingcontainertable">
+		<div class="lds-ripple"><div></div><div></div></div>
+		<div style="color:white;">Loading Assets...</div>
+		<div id="dismissLoading">Click here if stuck</div>
+	</div>
+</div>
+
+<script type="text/javascript" src="js/dailydate.js"></script>
+
+</div>
+
+<footer>
+	Developed by Svdex
+</footer>
+
+
+</body>
+</html>

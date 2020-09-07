@@ -1,0 +1,616 @@
+{
+  "bust_10101_kanban": {
+    "id_favor1_1": "Umu... what are you doing? Don't touch me without asking",
+    "id_favor1_2": "Huh..! Where are you touching, you fool!",
+    "id_favor1_3": "I told you don't touch me! I am getting mad!",
+    "id_favor2_1": "You... you fool... Don't touch any weird places",
+    "id_favor3_1": "Umu... I really want to have a date....",
+    "id_favor4_1": "Umu... Don't worry I will be there for you no matter what happens.",
+    "id_favor5_1": "Here… Can you feel my heartbeat?"
+  },
+  "bust_10104_kanban": {
+    "id_favor1_1": "Umu... what are you doing? Don't touch me without asking",
+    "id_favor1_2": "Huh..! Where are you touching, you fool!",
+    "id_favor1_3": "I told you don't touch me! I am getting mad!",
+    "id_favor2_1": "You... you fool... Don't touch any weird places",
+    "id_favor3_1": "Umu... I really want to have a date....",
+    "id_favor4_1": "Umu... Don't worry I will be there for you no matter what happens.",
+    "id_favor5_1": "Here… Can you feel my heartbeat?"
+  },
+  "bust_10107_new": {
+    "id_favor1_1": "",
+    "id_favor1_2": "",
+    "id_favor1_5": "",
+    "id_favor2_1": "",
+    "id_favor2_2": "",
+    "id_favor2_4": "",
+    "id_favor3_1": "",
+    "id_favor3_3": "",
+    "id_favor3_5": ""
+  },
+  "bust_10204_kanban": {
+    "id_favor1_1": "Consider it a warning",
+    "id_favor1_2": "I don't remember allowing you to touch me",
+    "id_favor1_3": "Creatures like Spirits Should not exist in this world",
+    "id_favor2_1": "Do you believe in fated encounter?",
+    "id_favor3_1": "Come closer. Don't worry. No one will notice us.",
+    "id_favor4_1": "Doing it over the clothes, is that enough for you?",
+    "id_favor5_1": "I will give you an unforgettable night"
+  },
+  "bust_10205_kanban": {
+    "id_favor1_1": "Consider it a warning",
+    "id_favor1_2": "I don't remember allowing you to touch me",
+    "id_favor1_3": "Creatures like Spirits Should not exist in this world",
+    "id_favor2_1": "Do you believe in fated encounter?",
+    "id_favor3_1": "Come closer. Don't worry. No one will notice us.",
+    "id_favor4_1": "Doing it over the clothes, is that enough for you?",
+    "id_favor5_1": "I will give you an unforgettable night"
+  },
+  "bust_10301_kanban": {
+    "id_favor1_1": "Y-Yoshinon... help... Police! This is the bad guy!",
+    "id_favor1_2": "We- well... sorry...",
+    "id_favor1_3": "...huh? Ah... well, no... You \"lucky lecher\". ",
+    "id_favor2_1": "Well, well... it makes me feel troubled...",
+    "id_favor3_1": "Yoshinon... is- my- hero...",
+    "id_favor4_1": "O-OK... I'll try my best.",
+    "id_favor5_1": "Hehe… it tickles... Oh, you want to pat Yoshinon? Aya, I won't play tricks! Haha!"
+  },
+  "bust_10303_kanban": {
+    "id_favor1_1": "Y-Yoshinon... help... Police! This is the bad guy!",
+    "id_favor1_2": "We- well... sorry...",
+    "id_favor1_3": "...huh? Ah... well, no... You \"lucky lecher\". ",
+    "id_favor2_1": "Well, well... it makes me feel troubled...",
+    "id_favor3_1": "Yoshinon... is- my- hero...",
+    "id_favor4_1": "O-OK... I'll try my best.",
+    "id_favor5_1": "Hehe… it tickles... Oh, you want to pat Yoshinon? Aya, I won't play tricks! Haha!"
+  },
+  "bust_10401_kanban": {
+    "id_favor1_1": "Ara, ara~ don't be so scared.",
+    "id_favor1_2": "\"Save me\"? Ahahaha, stop it. Like I gave you a scary look.",
+    "id_favor1_3": "You... Look delicious~",
+    "id_favor2_1": "I mean… Animals have an intuitive sense of others' mood Have you... sensed mine?",
+    "id_favor3_1": "I want to ask you What... do you really think of me?",
+    "id_favor4_1": "Hehe, do you like cats? Meow~ Meow~",
+    "id_favor5_1": "Ara, ara~ I was \"loved\" by you"
+  },
+  "bust_10404_kanban": {
+    "id_favor1_1": "Ara, ara~ don't be so scared.",
+    "id_favor1_2": "\"Save me\"? Ahahaha, stop it. Like I gave you a scary look.",
+    "id_favor1_3": "You... Look delicious~",
+    "id_favor2_1": "I mean… Animals have an intuitive sense of others' mood Have you... sensed mine?",
+    "id_favor3_1": "I want to ask you What... do you really think of me?",
+    "id_favor4_1": "Hehe, do you like cats? Meow~ Meow~",
+    "id_favor5_1": "Ara, ara~ I was \"loved\" by you"
+  },
+  "bust_10501_kanban": {
+    "id_favor1_1": "Shut-shut up... Height is not that important.",
+    "id_favor1_2": "Stop the noise You are not a monkey in heat.",
+    "id_favor1_3": "Stupid brother... You can't repress your animal side anymore?",
+    "id_favor2_1": "Don't - Don't do this! I'm not a kid anymore!",
+    "id_favor3_1": "Don't mind me. Go on the date with other Spirits",
+    "id_favor4_1": "*Sigh*… You're gonna be spoiled What am I going to do with you?",
+    "id_favor5_1": "No-no way. It is not out of the question But that kind of thing..."
+  },
+  "bust_10504_kanban": {
+    "id_favor1_1": "Shut-shut up... Height is not that important.",
+    "id_favor1_2": "Stop the noise You are not a monkey in heat.",
+    "id_favor1_3": "Stupid brother... You can't repress your animal side anymore?",
+    "id_favor2_1": "Don't - Don't do this! I'm not a kid anymore!",
+    "id_favor3_1": "Don't mind me. Go on the date with other Spirits",
+    "id_favor4_1": "*Sigh*… You're gonna be spoiled What am I going to do with you?",
+    "id_favor5_1": "No-no way. It is not out of the question But that kind of thing..."
+  },
+  "bust_10505_kanban": {
+    "id_favor1_1": "Shut-shut up... Height is not that important.",
+    "id_favor1_2": "Stop the noise You are not a monkey in heat.",
+    "id_favor1_3": "Stupid brother... You can't repress your animal side anymore?",
+    "id_favor2_1": "Don't - Don't do this! I'm not a kid anymore!",
+    "id_favor3_1": "Don't mind me. Go on the date with other Spirits",
+    "id_favor4_1": "*Sigh*… You're gonna be spoiled What am I going to do with you?",
+    "id_favor5_1": "No-no way. It is not out of the question But that kind of thing..."
+  },
+  "bust_10105_kanban": {
+    "id_favor1_1": "Umu... what are you doing? Don't touch me without asking",
+    "id_favor1_2": "Huh..! Where are you touching, you fool!",
+    "id_favor1_3": "I told you don't touch me! I am getting mad!",
+    "id_favor2_1": "You... you fool... Don't touch any weird places",
+    "id_favor3_1": "Umu... I really want to have a date....",
+    "id_favor4_1": "Umu... Don't worry I will be there for you no matter what happens.",
+    "id_favor5_1": "Here… Can you feel my heartbeat?"
+  },
+  "bust_10403_kanban": {
+    "id_favor1_1": "Ara, ara~ don't be so scared.",
+    "id_favor1_2": "\"Save me\"? Ahahaha, stop it. Like I gave you a scary look.",
+    "id_favor1_3": "You... Look delicious~",
+    "id_favor2_1": "I mean… Animals have an intuitive sense of others' mood Have you... sensed mine?",
+    "id_favor3_1": "I want to ask you What... do you really think of me?",
+    "id_favor4_1": "Hehe, do you like cats? Meow~ Meow~",
+    "id_favor5_1": "Ara, ara~ I was \"loved\" by you"
+  },
+  "bust_10305_kanban": {
+    "id_favor1_1": "Well... Do you want to build a snowman with me?",
+    "id_favor1_2": "I feel strange... But... not annoyed...",
+    "id_favor1_3": "Looks… very impressive?",
+    "id_favor2_1": "Well, well... it makes me feel troubled...",
+    "id_favor3_1": "Yoshinon... is- my- hero...",
+    "id_favor4_1": "O-OK... I'll try my best.",
+    "id_favor5_1": "Hehe… it tickles... Oh, you want to pat Yoshinon? Aya, I won't play tricks! Haha!"
+  },
+  "bust_10507_superKanban": {
+    "id_favor1_1": "Zzzz… Don't - Don't do this! I'm not a kid anymore!",
+    "id_favor1_2": "… Stop the noise You are not a monkey in heat.",
+    "id_favor1_3": "Zzzz… Stupid brother... You can't repress your animal side anymore?",
+    "id_favor2_1": "Zzzz… *Yawn*... it is already this late? Emm, I will finish soon. Please go to bed.",
+    "id_favor3_1": "… ... Hey... just talk to me for a while... It is not because I feel lonely.",
+    "id_favor4_1": "… *Sigh*... You're gonna be spoiled, What am I going to do with you?",
+    "id_favor5_1": "… Don't mind me. Go on the date with other Spirits"
+  },
+  "bust_11201_kanban": {
+    "id_favor1_1": "Why... Why must I stay? I've finished my mission.",
+    "id_favor1_2": "...! You wanna hug me?... Wait, what should I do?",
+    "id_favor1_3": "Emm… It turns out your hands are warm.",
+    "id_favor2_1": "Emm... stay alive. I can- feel it.",
+    "id_favor3_1": "Really? I... can stay here? Do you mean it?",
+    "id_favor4_1": "I... I am- no longer an existence that was born to disappear...",
+    "id_favor5_1": "I love you. I only want to be with you... forever."
+  },
+  "bust_11203_kanban": {
+    "id_favor1_1": "Why... Why must I stay? I've finished my mission.",
+    "id_favor1_2": "...! You wanna hug me?... Wait, what should I do?",
+    "id_favor1_3": "Emm… It turns out your hands are warm.",
+    "id_favor2_1": "Emm... stay alive. I can- feel it.",
+    "id_favor3_1": "Really? I... can stay here? Do you mean it?",
+    "id_favor4_1": "I... I am- no longer an existence that was born to disappear...",
+    "id_favor5_1": "I love you. I only want to be with you... forever."
+  },
+  "bust_10506_kanban": {
+    "id_favor1_1": "Humph, so you want to play reindeer?",
+    "id_favor1_2": "How about hanging you on the Christmas tree?",
+    "id_favor1_3": "Looks like you want to be among stars in the sky.",
+    "id_favor2_1": "Well... the Christmas special is quite nice.",
+    "id_favor3_1": "What are you doing?... It tickles...",
+    "id_favor4_1": "Oh? That's your Christmas wish?",
+    "id_favor5_1": "Wait... I know it's Christmas... but I am not ready for this..."
+  },
+  "bust_10407_superKanban": {
+    "id_favor1_1": "Ara, are you interested in my Christmas hat?",
+    "id_favor1_2": "This is a Christmas costume. Do you like it?",
+    "id_favor1_3": "It's Christmas! What? You want to know what's in the gift box?",
+    "id_favor3_1": "Merry Christmas~ You think this hat is cute?",
+    "id_favor2_1": "It's snowing outside! How about watching the snow with me?",
+    "id_favor4_1": "Ara ara. Santa Clause won't pay a visit to bad kids?",
+    "id_favor5_1": "No need for Christmas gift Have you here is good enough~"
+  },
+  "bust_11301_kanaban": {
+    "id_favor1_1": "Oh?... What shall I transform you into?",
+    "id_favor1_2": "You really are a reckless little boy~",
+    "id_favor1_3": "Want me to teach you some manners?",
+    "id_favor2_1": "As expected This is attractive to you~",
+    "id_favor3_1": "You can't hold back anymore~",
+    "id_favor4_1": "You want to touch it so bad?",
+    "id_favor5_1": "Haha~ Come feel this perfect body~"
+  },
+  "bust_11303_kanaban": {
+    "id_favor1_1": "Can you stop touching me? My hair is frizzy anyway...",
+    "id_favor1_2": "Wow...!? What are you doing? Scary...",
+    "id_favor1_3": "It will make me beautiful...? What are you talking about?",
+    "id_favor2_1": "Are you sure this will work? No need to transform?",
+    "id_favor3_1": "I said you didn't have to do anything... No, you can still do it...",
+    "id_favor4_1": "I look better now? Really?",
+    "id_favor5_1": "Do you want to... date with me?"
+  },
+  "bust_10211_kanban": {
+    "id_favor1_1": "Consider it a warning",
+    "id_favor1_2": "I don't remember allowing you to touch me",
+    "id_favor1_3": "Creatures like Spirits Should not exist in this world",
+    "id_favor2_1": "Do you believe in fated encounter?",
+    "id_favor3_1": "Come closer. Don't worry. No one will notice us.",
+    "id_favor4_1": "Doing it over the clothes, is that enough for you?",
+    "id_favor5_1": "I will give you an unforgettable night"
+  },
+  "bust_10408_kanban": {
+    "id_favor1_1": "Ara, ara~ don't be so scared.",
+    "id_favor1_2": "\"Save me\"? Ahahaha, stop it. Like I gave you a scary look.",
+    "id_favor1_3": "You... Look delicious~",
+    "id_favor2_1": "I mean… Animals have an intuitive sense of others' mood Have you... sensed mine?",
+    "id_favor3_1": "I want to ask you What... do you really think of me?",
+    "id_favor4_1": "Hehe, do you like cats? Meow~ Meow~",
+    "id_favor5_1": "Ara, ara~ I was \"loved\" by you"
+  },
+  "bust_10307_superKanban": {
+    "id_favor1_1": "Don't- don't worry... Don't mind me...",
+    "id_favor1_2": "It's OK... Well, I am... happy. You \"lucky lecher\"~~",
+    "id_favor1_3": "Yoshinon... is- my- hero...",
+    "id_favor2_1": "Cute? ... Thank… thank you.",
+    "id_favor3_1": "My hat... Is it cute?",
+    "id_favor4_1": "Can... can we date together?",
+    "id_favor5_1": "As long as it's from you... every gift is great."
+  },
+  "bust_10409_superkanban": {
+    "id_favor1_1": "Hehe, do you like cats? Meow~ Meow~",
+    "id_favor1_2": "Ara ara, don't be naughty.",
+    "id_favor1_3": "That's rude. What are you talking to an [ordinary] girl like me?",
+    "id_favor2_1": "I mean… Animals have an intuitive sense of others' mood Have you... sensed mine?",
+    "id_favor3_1": "Ara, ara~ I was \"loved\" by you",
+    "id_favor4_1": "Emhehe, you want to see what's inside? But, not~allowed~",
+    "id_favor5_1": "Actually... it's OK. Even if you lay me down on your bed, I am OK with it."
+  },
+  "bust_11001_kanban": {
+    "id_favor1_3": "Mu~ What are you doing...",
+    "id_favor1_1": "Wow! Don't- don't joke around! Just disappear!",
+    "id_favor1_2": "Humph humph humph. No way you can fool me. Except my words, I won't trust anything.",
+    "id_favor2_1": "Is that true?... Even if I lost my voice, will you still be my fan?",
+    "id_favor3_1": "What? Suddenly you want to hear me sing? Hehe, anytime~",
+    "id_favor4_1": "Aww, don't do this, darling. To be continued~",
+    "id_favor5_1": "You like here? *Sigh*... then there is no other way~"
+  },
+  "bust_11004_kanban": {
+    "id_favor1_3": "Mu~ What are you doing...",
+    "id_favor1_1": "Wow! Don't- don't joke around! Just disappear!",
+    "id_favor1_2": "Humph humph humph. No way you can fool me. Except my words, I won't trust anything.",
+    "id_favor2_1": "Is that true?... Even if I lost my voice, will you still be my fan?",
+    "id_favor3_1": "What? Suddenly you want to hear me sing? Hehe, anytime~",
+    "id_favor4_1": "Aww, don't do this, darling. To be continued~",
+    "id_favor5_1": "You like here? *Sigh*... then there is no other way~"
+  },
+  "bust_10109_superKanban": {
+    "id_favor1_1": "Ohoh! I look cute? This is the first time I've worn clotheslike this.",
+    "id_favor1_2": "Look! Silky and soft, so comfortable!",
+    "id_favor1_3": "Umu... It's hard to walk in this cloth...",
+    "id_favor2_1": "Um! The dress is about to fall down! Help me with it!",
+    "id_favor3_1": "Look, a sakura headdress~ Isn't it pretty?",
+    "id_favor4_1": "Umu... It feels uncomfortable without underwear...",
+    "id_favor5_1": "Umu... It seems I've eaten too much The belt is too tight. Umm, can you carry me on your back?"
+  },
+  "bust_10212_kanban": {
+    "id_favor1_1": "I changed my hairpin to a special headdress flower. Does it look pretty?",
+    "id_favor1_2": "Underwear is not necessary when you wear kimono.",
+    "id_favor1_3": "Thanks for your gift. … I am very happy.",
+    "id_favor2_1": "Compared with wearing these, I am better at taking them off.",
+    "id_favor3_1": "Go to visit the shrine together.",
+    "id_favor4_1": "Kimono is expensive. But if it is for you, It is OK to break it.",
+    "id_favor5_1": "Hold it here, and pull with strength... Ah--La--"
+  },
+  "bust_11307_kanban": {
+    "id_favor1_1": "Can you stop touching me? My hair is frizzy anyway...",
+    "id_favor1_2": "Wow...!? What are you doing? Scary...",
+    "id_favor1_3": "It will make me beautiful...? What are you talking about?",
+    "id_favor2_1": "Are you sure this will work? No need to transform?",
+    "id_favor3_1": "I said you didn't have to do anything... No, you can still do it...",
+    "id_favor4_1": "I look better now? Really?",
+    "id_favor5_1": "Do you want to... date with me?"
+  },
+  "bust_10111_superKanban": {
+    "id_favor1_1": "Umu... Why it is so hard...",
+    "id_favor1_2": "You- you - you...! No peeking!",
+    "id_favor1_3": "Hey, hey! What is this for? And, and, what is that?",
+    "id_favor2_1": "Umu... Please wait for a little while.",
+    "id_favor3_1": "Umu~ I did it like this, Very fun~",
+    "id_favor4_1": "Hehe~ It's time for dessert~",
+    "id_favor5_1": "Welcome back! Let's start eating!"
+  },
+  "bust_10112_kanban": {
+    "id_favor1_1": "Umu... Why it is so hard...",
+    "id_favor1_2": "You- you - you...! No peeking!",
+    "id_favor1_3": "Hey, hey! What is this for? And, and, what is that?",
+    "id_favor2_1": "Umu... Please wait for a little while.",
+    "id_favor3_1": "Umu~ I did it like this, Very fun~",
+    "id_favor4_1": "Hehe~ It's time for dessert~",
+    "id_favor5_1": "Welcome back! Let's start eating!"
+  },
+  "bust_10308_kanban": {
+    "id_favor1_1": "Y-Yoshinon... help... Police! This is the bad guy!",
+    "id_favor1_2": "We- well... sorry...",
+    "id_favor1_3": "...huh? Ah... well, no... You \"lucky lecher\". ",
+    "id_favor2_1": "Well, well... it makes me feel troubled...",
+    "id_favor3_1": "Yoshinon... is- my- hero...",
+    "id_favor4_1": "O-OK... I'll try my best.",
+    "id_favor5_1": "Hehe… it tickles... Oh, you want to pat Yoshinon? Aya, I won't play tricks! Haha!"
+  },
+  "bust_10509_superKanban": {
+    "id_favor1_1": "Shut-shut up... Height is not that important.",
+    "id_favor1_2": "Stop the noise You are not a monkey in heat.",
+    "id_favor1_3": "Stupid brother... You can't repress your animal side anymore?",
+    "id_favor2_1": "Don't - Don't do this! I'm not a kid anymore!",
+    "id_favor3_1": "Don't mind me. Go on the date with other Spirits",
+    "id_favor4_1": "*Sigh*… You're gonna be spoiled What am I going to do with you?",
+    "id_favor5_1": "No-no way. It is not out of the question But that kind of thing..."
+  },
+  "bust_10508_kanban": {
+    "id_favor1_1": "Shut-shut up... Height is not that important.",
+    "id_favor1_2": "Stop the noise You are not a monkey in heat.",
+    "id_favor1_3": "Stupid brother... You can't repress your animal side anymore?",
+    "id_favor2_1": "Don't - Don't do this! I'm not a kid anymore!",
+    "id_favor3_1": "Don't mind me. Go on the date with other Spirits",
+    "id_favor4_1": "*Sigh*… You're gonna be spoiled What am I going to do with you?",
+    "id_favor5_1": "No-no way. It is not out of the question But that kind of thing..."
+  },
+  "bust_11206_kanban": {
+    "id_favor1_1": "Why... Why must I stay? I've finished my mission.",
+    "id_favor1_2": "...! You wanna hug me?... Wait, what should I do?",
+    "id_favor1_3": "Emm… It turns out your hands are warm.",
+    "id_favor2_1": "Emm... stay alive. I can- feel it.",
+    "id_favor3_1": "Really? I... can stay here? Do you mean it?",
+    "id_favor4_1": "I... I am- no longer an existence that was born to disappear...",
+    "id_favor5_1": "I love you. I only want to be with you... forever."
+  },
+  "bust_11207_superKanban": {
+    "id_favor1_1": "Why... Why must I stay? I've finished my mission.",
+    "id_favor1_2": "...! You wanna hug me?... Wait, what should I do?",
+    "id_favor1_3": "Emm… It turns out your hands are warm.",
+    "id_favor2_1": "Emm... stay alive. I can- feel it.",
+    "id_favor3_1": "Really? I... can stay here? Do you mean it?",
+    "id_favor4_1": "I... I am- no longer an existence that was born to disappear...",
+    "id_favor5_1": "I love you. I only want to be with you... forever."
+  },
+  "bust_10213_superKanban": {
+    "id_favor1_1": "Mom There is a strange ojisan here!",
+    "id_favor1_2": "Tsk, the shrunk body is really inconvenient...",
+    "id_favor1_3": "I need to go to the bathroom. I can't do it myself.",
+    "id_favor2_1": "I want cookies Feed me some.",
+    "id_favor3_1": "My name is Chiyogami. Nice to meet you.",
+    "id_favor4_1": "I am my parents' fruit of love.",
+    "id_favor5_1": "Papa Don't do anything stupid."
+  },
+  "bust_10214_kanban": {
+    "id_favor1_1": "This feels familiar...",
+    "id_favor1_2": "There... it is not allowed...",
+    "id_favor1_3": "Is the skirt too short?",
+    "id_favor2_1": "I have a feeling, you were in my heart once",
+    "id_favor3_1": "It seems that I was comforted like this before...",
+    "id_favor4_1": "Could you take a walk with me?",
+    "id_favor5_1": "I am so afraid, will I act strange again all of a sudden..."
+  },
+  "bust_11309_kanban": {
+    "id_favor1_1": "Oh?... What shall I transform you into?",
+    "id_favor1_2": "You really are a reckless little boy~",
+    "id_favor1_3": "Want me to teach you some manners?",
+    "id_favor2_1": "As expected This is attractive to you~",
+    "id_favor3_1": "You can't hold back anymore~",
+    "id_favor4_1": "You want to touch it so bad?",
+    "id_favor5_1": "Haha~ Come feel this perfect body~"
+  },
+  "bust_11308_superKanban": {
+    "id_favor1_1": "Do you want to become a slug?",
+    "id_favor1_2": "Little boy, you are unreliable. What a disappointment! ",
+    "id_favor1_3": "Kihihi It is not as boring as it looks like ",
+    "id_favor2_1": "Hehe I am perfect without doubt~ ",
+    "id_favor3_1": "This is really boring Want to have some fun?",
+    "id_favor4_1": "Ara ara. do you really want to see it?",
+    "id_favor5_1": "Did you sleep well? Sleep deprivation is enemy of your skin~"
+  },
+  "bust_11208_kanban": {
+    "id_favor1_1": "Why... Why must I stay? I've finished my mission.",
+    "id_favor1_2": "...! You wanna hug me?... Wait, what should I do?",
+    "id_favor1_3": "Emm… It turns out your hands are warm.",
+    "id_favor2_1": "Emm... stay alive. I can- feel it.",
+    "id_favor3_1": "Can we play water over there?",
+    "id_favor4_1": "I am not good at swimming... Will you go with me?",
+    "id_favor5_1": "I love you. I only want to be with you... forever."
+  },
+  "bust_11006_superKanban": {
+    "id_favor1_1": "Ara Ara, it seems the singing is even sweeter!",
+    "id_favor1_2": "Ah! Darling, geez. Whew because mermaid wears little.",
+    "id_favor1_3": "Feet, ah? Yeah, it is hard to dance like this!",
+    "id_favor2_1": "Do you know, Mermaid with a sweet voice is a common setting!",
+    "id_favor3_1": "The secret scale of mermaid Darling is the only one allowed to touch it.",
+    "id_favor4_1": "Darling Please hold me tight Let me bring you to the sea!",
+    "id_favor5_1": "If you kiss a mermaid, You may able to breath in the sea. Darling Do you wanna try?"
+  },
+  "bust_10209_kanban": {
+    "id_favor1_1": "Consider it a warning",
+    "id_favor1_2": "I don't remember allowing you to touch me",
+    "id_favor1_3": "Creatures like Spirits Should not exist in this world",
+    "id_favor2_1": "From 5 years ago, I live for only one reason!",
+    "id_favor3_1": "I must go back to 5 years ago to change everything.",
+    "id_favor4_1": "I must get stronger! Strong enough to kill that Spirit!",
+    "id_favor5_1": "I will give you an unforgettable night"
+  },
+  "bust_10216_superKanban": {
+    "id_favor1_1": "Who I am and where am I?",
+    "id_favor1_2": "I feel empty...",
+    "id_favor1_3": "Already... too late to save anything.",
+    "id_favor2_1": "Doing this... Is that really right?",
+    "id_favor3_1": "Tell me... What's the meaning of living in this world?",
+    "id_favor4_1": "…",
+    "id_favor5_1": ""
+  },
+  "bust_10210_kanban": {
+    "id_favor1_1": "This feels familiar...",
+    "id_favor1_2": "There... it is not allowed...",
+    "id_favor1_3": "Is the skirt too short?",
+    "id_favor2_1": "I have a feeling, you were in my heart once",
+    "id_favor3_1": "It seems that I was comforted like this before...",
+    "id_favor4_1": "Could you take a walk with me?",
+    "id_favor5_1": "I am so afraid, will I act strange again all of a sudden..."
+  },
+  "bust_11401_kanban": {
+    "id_favor1_1": "Yeahhoooi!",
+    "id_favor1_2": "Justice will win! Huph huph!",
+    "id_favor1_3": "chalalalalatattang",
+    "id_favor2_1": "OK! I will do my best!",
+    "id_favor3_1": "Let's do it full of energy!",
+    "id_favor4_1": "Pyoooin! Pyoooin! I am a kangaroo! Pyoooin! I am a kangaroo! Pyoooin! I am a kangaroo! I am a kangaroo!",
+    "id_favor5_1": "It doesn't look good. But I made this chocolate pudding for you. Are you willing to accept it?"
+  },
+  "bust_11402_superKanban": {
+    "id_favor1_1": "Yeahhoooi! Yahhoooi! I am Nep, cutest girl of this game series, I am Nep, the protagonist of protagonists! Nice to meet you!",
+    "id_favor1_2": "Pudding♪Pudding♪",
+    "id_favor1_3": "Really want to go home to play video game~",
+    "id_favor2_1": "Sneaky attack is not allowed!",
+    "id_favor3_1": "It doesn't look good. But I made this chocolate pudding for you. Are you willing to accept it?",
+    "id_favor4_1": "Energy, energy♪",
+    "id_favor5_1": "Ne-Nep, Nep-ne, Nep-n, Nep Nep♪Nep nep nep nep, nep nep nep♪"
+  },
+  "bust_11501_kanban": {
+    "id_favor1_1": "I am Blanc, the goddess of Lowee. Reading is my hobby. My target is to get my work published. Nice to meet you!",
+    "id_favor1_2": "Em... what's over there?",
+    "id_favor1_3": "... I am so sleepy.",
+    "id_favor2_1": "Work hard next time as well",
+    "id_favor3_1": "... Don't know if my writing skills will upgrade as well.",
+    "id_favor4_1": "It is not bad to be expected by someone...",
+    "id_favor5_1": "Don't know if I will get some materials for my novel this time"
+  },
+  "bust_11502_superKanban": {
+    "id_favor1_1": "I am Blanc, the goddess of Lowee. Reading is my hobby. My target is to get my work published. Nice to meet you!",
+    "id_favor1_2": "What shall I write for my next book? I'd first find out what kind of novel is popular recently.",
+    "id_favor1_3": "Time for reading.",
+    "id_favor2_1": "Are you worried about me? Thank you.",
+    "id_favor3_1": "... Don't worry, the deadline is 3 days away.",
+    "id_favor4_1": "Come here, this... What? Of course, it's chocolate.",
+    "id_favor5_1": "When I grow up, will my chest get bigger...."
+  },
+  "bust_10510_kanban": {
+    "id_favor1_1": "Shut-shut up... Height is not that important.",
+    "id_favor1_2": "Stop the noise You are not a monkey in heat.",
+    "id_favor1_3": "Stupid brother... You can't repress your animal side anymore?",
+    "id_favor2_1": "Don't - Don't do this! I'm not a kid anymore!",
+    "id_favor3_1": "Don't mind me. Go on the date with other Spirits",
+    "id_favor4_1": "*Sigh*… You're gonna be spoiled What am I going to do with you?",
+    "id_favor5_1": "No-no way. It is not out of the question But that kind of thing..."
+  },
+  "bust_10511_superKanban": {
+    "id_favor1_1": "Thank you, Big Brother... I like the gift",
+    "id_favor1_2": "Jeez, Big Brother is really a pervert But I will forgive you!",
+    "id_favor1_3": "Go to the amusement park and then the family restaurant at noon! Please, Big Brother~",
+    "id_favor2_1": "Dear Big Brother of Kotori, is Kotori your favorite little sister?",
+    "id_favor3_1": "Big Brother is the best brother in the world!",
+    "id_favor4_1": "Big Brother Please love Kotori forever~",
+    "id_favor5_1": "Kids meal is good. But Big Brother is No. 1 in Kotori's heart!"
+  },
+  "bust_10113_superKanban": {
+    "id_favor1_1": "I do want to talk with you, seriously.",
+    "id_favor1_2": "En, I will listen no matter what you say.",
+    "id_favor1_3": "Let's go! Let's go crazy today",
+    "id_favor2_1": "Umu In my heart? I sure it is.",
+    "id_favor3_1": "Hehe, I am so happy",
+    "id_favor4_1": "We have a promise",
+    "id_favor5_1": "Did you heart skip a beat for me?"
+  },
+  "bust_10114_kanban": {
+    "id_favor1_1": "I do want to talk with you, seriously.",
+    "id_favor1_2": "En, I will listen no matter what you say.",
+    "id_favor1_3": "Let's go! Let's go crazy today",
+    "id_favor2_1": "Umu In my heart? I sure it is.",
+    "id_favor3_1": "Hehe, I am so happy",
+    "id_favor4_1": "We have a promise",
+    "id_favor5_1": "Did you heart skip a beat for me?"
+  },
+  "bust_10309_superKanban": {
+    "id_favor1_1": "Very- very beautiful cloth... Does it really suit me?",
+    "id_favor1_2": "Ghahaha, get charmed by the cute duo of Yoshino and Yoshinon~",
+    "id_favor1_3": "Miss Natsumi is here to help?",
+    "id_favor2_1": "It is a long holiday. Do you want to... go on a trip with us?",
+    "id_favor3_1": "Have you brought an umbrella? Looks like it would rain this afternoon.",
+    "id_favor4_1": "Hot- hot spring? I- I can go as well? So happy... So happy...",
+    "id_favor5_1": "Hehe... What? Why- am I so happy? ... No- nothing special... hehe~"
+  },
+  "bust_11310_kanban": {
+    "id_favor1_1": "Can you stop touching me? My hair is frizzy anyway...",
+    "id_favor1_2": "Wow...!? What are you doing? Scary...",
+    "id_favor1_3": "It will make me beautiful...? What are you talking about?",
+    "id_favor2_1": "Hot spring... I don't hate it",
+    "id_favor3_1": "Thank you... Do I... look pretty?",
+    "id_favor4_1": "Why my hair is getting dryer recently...",
+    "id_favor5_1": "Do you want to... date with me?"
+  },
+  "bust_10115_kanban": {
+    "id_favor1_1": "Thou, Answer me, What is this place? And why I am here?",
+    "id_favor1_2": "Ants, I will crush you all!",
+    "id_favor1_3": "You think I will let you slip away?",
+    "id_favor2_1": "I am...",
+    "id_favor3_1": "Don't hold me back.",
+    "id_favor4_1": "Interesting. Fine, I will show you what I can do.",
+    "id_favor5_1": "You... don't stand behind me!"
+  },
+  "bust_10116_superKanban": {
+    "id_favor1_1": "Thou, Answer me, What is this place? And why I am here?",
+    "id_favor1_2": "Ants, I will crush you all!",
+    "id_favor1_3": "You think I will let you slip away?",
+    "id_favor2_1": "I am...",
+    "id_favor3_1": "Don't hold me back.",
+    "id_favor4_1": "Interesting. Fine, I will show you what I can do.",
+    "id_favor5_1": "You... don't stand behind me!"
+  },
+  "bust_10413_kanban": {
+    "id_favor1_1": "Hmph... You haven't given up the stupid idea of saving me?",
+    "id_favor1_2": "Human's heart, is something that even they themselves cannot understand well. Please be careful.",
+    "id_favor1_3": "Well... If we must talk about it, I want to prove one thing... History can be changed by men.",
+    "id_favor2_1": "Only what you see with own eyes is true.",
+    "id_favor3_1": "No one can escape the cage of time.",
+    "id_favor4_1": "I need more \"time\".",
+    "id_favor5_1": "Yes I know you very well. I know everything about you..."
+  },
+  "bust_10414_superkanban": {
+    "id_favor1_1": "Hmph... You haven't given up the stupid idea of saving me?",
+    "id_favor1_2": "Human's heart, is something that even they themselves cannot understand well. Please be careful.",
+    "id_favor1_3": "Well... If we must talk about it, I want to prove one thing... History can be changed by men.",
+    "id_favor2_1": "Only what you see with own eyes is true.",
+    "id_favor3_1": "No one can escape the cage of time.",
+    "id_favor4_1": "I need more \"time\".",
+    "id_favor5_1": "Yes I know you very well. I know everything about you..."
+  },
+  "bust_10219_superKanban": {
+    "id_favor1_1": "What... you just say... did you mean it?",
+    "id_favor1_2": "The real love starts now.",
+    "id_favor1_3": "Please take me home.",
+    "id_favor2_1": "Ears. Very soft. Wanna touch them?",
+    "id_favor3_1": "Let's take a bath together!",
+    "id_favor4_1": "Want to touch my tail?",
+    "id_favor5_1": "Very comfortable~"
+  },
+  "bust_10220_kanban": {
+    "id_favor1_1": "What... you just say... did you mean it?",
+    "id_favor1_2": "The real love starts now.",
+    "id_favor1_3": "Please take me home.",
+    "id_favor2_1": "Ears. Very soft. Wanna touch them?",
+    "id_favor3_1": "Let's take a bath together!",
+    "id_favor4_1": "Want to touch my tail?",
+    "id_favor5_1": "Very comfortable~"
+  },
+  "bust_10217_kanban": {
+    "id_favor1_1": "Seeing you at these places, what a coincidence! ... This is your room? I don't know what you mean.",
+    "id_favor1_2": "Come closer. Don't worry, no one will notice us.",
+    "id_favor1_3": "I will give you an unforgettable night",
+    "id_favor2_1": "Merry Christmas I have prepared a Christmas gift for you.",
+    "id_favor3_1": "Feel cold? Put your hands on my chest.",
+    "id_favor4_1": "I made new stew, eat.",
+    "id_favor5_1": "The real love starts now."
+  },
+  "bust_11209_superKanban": {
+    "id_favor1_1": "This is Santa Clause's hat.",
+    "id_favor1_2": "I have a Christmas gift for you... What, you prepared one as well?",
+    "id_favor1_3": "It's snowing... Please wear something warm",
+    "id_favor2_1": "It's warm, Like fire at the fireplace.",
+    "id_favor3_1": "Gift? I don't care. I just want to be with you.",
+    "id_favor4_1": "The Christmas stocking you gave me is cute.",
+    "id_favor5_1": "My \"ruling\" is you must stay with me the whole Christmas."
+  },
+  "bust_11311_superKanban": {
+    "id_favor1_1": "Come on, come closer~",
+    "id_favor1_2": "Don't be afraid. I won't eat you~",
+    "id_favor1_3": "It's getting late, time to have some fun~",
+    "id_favor2_1": "The show is on~",
+    "id_favor3_1": "Everything goes as I wish!",
+    "id_favor4_1": "Will it be a surprise?",
+    "id_favor5_1": "Although I know you want to see... Kihihi..."
+  },
+  "bust_10124_kanban": {
+    "id_favor1_1": "Umu... what are you doing? Don't touch me without asking",
+    "id_favor1_2": "Huh..! Where are you touching, you fool!",
+    "id_favor1_3": "You... you fool... Don't touch any weird places",
+    "id_favor2_1": "Well… So itchy! But I didn't say you need to stop.",
+    "id_favor3_1": "Hey, stop. Please be self-possessed.",
+    "id_favor4_1": "Do you find it fun to touch a place like this?",
+    "id_favor5_1": "Well, besides touch my head…  Can you also hold my hands?"
+  },
+  "bust_11316_kanban": {
+    "id_favor1_1": "Oh?... What shall I transform you into?",
+    "id_favor1_2": "You really are a reckless little boy~",
+    "id_favor1_3": "Want me to teach you some manners?",
+    "id_favor2_1": "As expected This is attractive to you~",
+    "id_favor3_1": "You can't hold back anymore~",
+    "id_favor4_1": "You want to touch it so bad?",
+    "id_favor5_1": "Haha~ Come feel this perfect body~"
+  }
+}
