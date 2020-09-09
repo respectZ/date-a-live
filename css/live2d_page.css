@@ -185,6 +185,18 @@ body {
     align-self: baseline;
 }
 
+.l2dv3-collapsible {
+    display: block;
+    line-height:0;
+    height: 0;
+    overflow: hidden;
+    transition: height .3s
+}
+
+.l2dv3-collapsible-main {
+    cursor:pointer;
+}
+
 .customButton {
     background-color: #ca3e47;
     border: 1px solid #ca3e47;

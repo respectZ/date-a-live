@@ -1521,6 +1521,8 @@
         const motionNames = []
         const modelNames = []
 
+        
+
         // if (!modelNames.includes(name+'_model')){
         this.loader.add(name + '_model', modelDir + modelPath, { xhrType: PIXI.loaders.Resource.XHR_RESPONSE_TYPE.JSON })
         modelNames.push(name + '_model')
@@ -1658,6 +1660,8 @@
       //external bg
       this.bg = bg;
       this.folderName = folderName;
+      //external bgeffect
+      //bgEffect.backgroundManager(folderName, this);
 
       this.canvas = el
 
@@ -1824,8 +1828,16 @@
         foreground.height *= ratio;
       })
       this.app.stage.addChild(foreground);
-      this.app.stage.addChild(this.model)
-      this.app.stage.addChild(this.model.masks)
+      bgEffect.backgroundManager(folderName, this);
+      let temp = this;
+      var waitBg = setInterval(function() { 
+        if(bgEffect.isLoaded) {
+          clearInterval(waitBg);
+          temp.app.stage.addChild(temp.model)
+          temp.app.stage.addChild(temp.model.masks)
+        }
+      }, 500)
+      
 
       window.onresize()
     }
@@ -2032,6 +2044,7 @@
     var l2d = new L2D(basePath);
     l2dViewer.bg = bg;
     l2d.load(folderName, modelName, l2dViewer, bg);
+    
   }
 
   changeBackground = function(bgPath, l2dViewer) {
@@ -2041,4 +2054,5 @@
   changePosition = function(x,y, l2dViewer) {
     l2dViewer.model.position = new PIXI.Point(x, y)
   }
+
 })()

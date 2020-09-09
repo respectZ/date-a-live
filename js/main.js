@@ -20,6 +20,8 @@ function loadContent(link) {
             	}
             	if(link == "live2dv3.html") {
                     if(typeof Live2DViewer == "undefined") {
+                        $.getScript('js/pixi-spine.js');
+                        $.getScript('js/background_effect.js');
                         $.getScript('js/live2dv3.js', function() {
                             $.getScript('js/live2dv3_user.js', function() {
                                 Live2DViewer.init();

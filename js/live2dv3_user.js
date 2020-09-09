@@ -5,6 +5,7 @@ var height = window.innerHeight;
 //opt
 var modelName;
 var folderName;
+var spines = [];
 
 //misc
 var selectedBgType = 0; //0 normal 1 kanban
