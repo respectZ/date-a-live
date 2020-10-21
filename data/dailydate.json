@@ -1632,6 +1632,167 @@
           ]
         }
       }
+    },
+    "natsumi":{
+      "data":{
+        "name":"Natsumi",
+        "img":"https://newsimg.5054399.com/uploads/userup/1901/30193029C08.jpg",
+        "like":{
+          "gift":[535132, "Fox Baby"],
+          "food":[534031, "Cheese Tart"]
+        }
+      },
+      "date":{
+        "0":{
+          "name":"Flower Shop",
+          "ending":{
+            "Happy":{
+              "0":{
+                "name":"Flower of Hope",
+                "guide":[0, 1, 2, 3, 4]
+              },
+              "1":{
+                "name":"Seed",
+                "guide":[5, 6, 7, 12, 13]
+              },
+              "2":{
+                "name":"Everyone Likes Natsumi",
+                "guide":[5, 6, 7, 8, 9, 10, 11]
+              }
+            },
+            "True":{
+              "0":{
+                "name":"Creative Blue Rose",
+                "cg":"assets/res/basic/modle/cg/main_cg_role_211.png",
+                "guide":[0, 1, 2, 3, 14]
+              }
+            },
+            "Normal":{
+              "0":{
+                "name":"Noob Florist",
+                "guide":[0, 1, 17, 18, 19]
+              },
+              "1":{
+                "name":"Expected Love",
+                "guide":[0, 1, 2, 15, 16]
+              }
+            },
+            "Hidden":{
+              "0":{
+                "name":"Cotton Wreath",
+                "cg":"assets/res/basic/modle/cg/main_cg_role_212.png",
+                "guide":[5, 6, 20, 21]
+              }
+            }
+          },
+          "text":[
+            "Someone must have cleaned it",
+            "I need to thank Natsumi properly",
+            "I also want to date Natsumi",
+            "Let's doing ikebana together",
+            "I prefer ikebana of warm colors",
+
+            "Maybe it's the work of Natsumi",
+            "Let me make breakfast",
+            "How about another glass of milk?",
+            "Buy some fresh flowers",
+            "Natsumi should pick some fresh flowers",
+            "We can give some to Tohka",
+            "It was selected by Natsumi",
+
+            "Buy some seeds",
+            "This is bad, what should we do",
+
+            "Which one do you like, Natsumi?",
+
+            "Let's watch others doing it",
+            "Couple's ikebana",
+
+            "A date with... Natsumi?",
+            "Do you want to try ikebana, Natsumi?",
+            "A sunflower seems appropriate",
+
+            "How about another glass of milk?",
+            "Buy some dried flowers"
+
+          ]
+        },
+        "1":{
+          "name":"Park",
+          "ending":{
+            "Happy":{
+              "0":{
+                "name":"Maple Dusk",
+                "cg":"assets/res/basic/modle/cg/main_cg_role_209.png",
+                "guide":[0, 1, 2, 3, 4, 5, 6]
+              }
+            },
+            "True":{
+              "0":{
+                "name":"Hide and Seek",
+                "guide":[0, 1, 2, 3, 7, 8]
+              },
+              "1":{
+                "name":"Power of Confidence",
+                "guide":[0, 9, 10, 11, 12]
+              }
+            },
+            "Normal":{
+              "0":{
+                "name":"Swing for Two",
+                "guide":[0, 9, 10, 18, 20]
+              },
+              "1":{
+                "name":"Keep Working Hard",
+                "guide":[0, 9, 10, 18, 19]
+              },
+              "2":{
+                "name":"How to Get Along",
+                "guide":[13, 14, 15, 16, 17]
+              }
+            },
+            "Hidden":{
+              "0":{
+                "name":"No Confidence",
+                "cg":"assets/res/basic/modle/cg/main_cg_role_210.png",
+                "guide":[0, 1, 2, 21, 22, 23]
+              }
+            }
+          },
+          "text":[
+            "Ask with pretended calmness",
+            "Invite Yoshino",
+            "Omurice",
+            "Let's go for a date",
+            "Don't worry, I'll protect you",
+            "Make a wish upon the maple leaf",
+            "Tell Natsumi my wish",
+
+            "Don't be afraid, you are the best",
+            "That should be me",
+
+            "Invite Kotori",
+            "It's not what you think, Kotori",
+            "Catch up with Natsumi",
+            "Invite them both to hang out",
+
+            "Run out in panic",
+            "Put hands on waist and get up slowly",
+            "Politely refuse Natsumi",
+            "I'll give you whatever you want, Natsumi",
+            "I can play with you all the time",
+
+            "Catch up with Kotori",
+            "This won't bring you happiness",
+
+            "This isn't the right way to get along",
+
+            "Let's go outing",
+            "Let's play hide and seek?",
+            "Pretend not to have found Natsumi"
+          ]
+        }
+      }
     }
   }
 }
