@@ -16,6 +16,7 @@ function loadContent(link) {
                        dailyDate.loadData();
                         dailyDate.init();
                         dailyDate.dismissLoading(); 
+                        selectedLocation = '';
                     }
             	}
             	if(link == "live2dv3.html") {
