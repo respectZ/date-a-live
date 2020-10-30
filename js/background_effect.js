@@ -67,6 +67,12 @@ let charaEffect = {
   		"action":"playup"
   	}
   },
+  "bust_10119_superKanban": {
+    "0": {
+      "path": "effect/dating/ui_superKanban_10119/hanfushixiangjangkanban",
+      "action": "animation"
+    }
+  },
   "bust_10213_superKanban": {
     "0": {
       "path": "effect/dating/ui_superKanban_10213/effect_main_10213",
@@ -123,6 +129,12 @@ let charaEffect = {
     "0": {
       "path": "effect/dating/ui_superKanban_10414/effect_main_10414",
       "action": "play"
+    }
+  },
+  "bust_10416_superkanban": {
+    "0": {
+      "path": "effect/dating/ui_superKanban_10416/effects_hfkuangsankanban",
+      "action": "effects_hfkuangsankanban_all"
     }
   },
   "bust_10507_new": {
