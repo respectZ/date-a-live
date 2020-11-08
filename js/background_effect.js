@@ -233,11 +233,11 @@ var bgEffect = {
 
 	backgroundEffect : {
 		add : function(data, l2dViewer) {
-			let loader = new PIXI.Loader();
+			//let loader = new PIXI.loader();
 			for(var i=0;i<data.length;i++) {
-				loader.add('bgEffect' + i, data[i].split(':')[0]);
+				PIXI.loader.add('bgEffect' + i, data[i].split(':')[0]);
 			}
-			loader.load((loader, res) => {
+			PIXI.loader.load((loader, res) => {
 				for(var i=0;i<data.length;i++) {
 					const s = new PIXI.spine.Spine(res['bgEffect' + i].spineData);
 					//to do idk how to automaticly set based resolution, so i'll set this for by screen reso / 2
@@ -253,7 +253,7 @@ var bgEffect = {
 					bgEffect.list['bgEffect' + i].scale = s.scale.x;
 				}
 				bgEffect.addSetting(l2dViewer);
-				loader.reset();		
+				PIXI.loader.reset();		
 			});
 		}
 	},
