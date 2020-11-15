@@ -1896,7 +1896,7 @@
               "0":{
                 "name":"I'm by your side.",
                 "cg":"assets/res/basic/modle/cg/main_cg_role_171.png",
-                "guide":[0, 1, 13, 14, 15]
+                "guide":[0, 5, 13, 14, 15]
               }
             },
             "Normal":{
