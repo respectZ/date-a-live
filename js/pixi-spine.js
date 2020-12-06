@@ -7306,6 +7306,8 @@ var pixi_spine;
             var clippingAttachment = null;
             var clippingContainer = null;
             for (var i = 0, n = drawOrder.length; i < n; i++) {
+                //idiot solution to fix undefined dal date a live date-a-live
+                if(slots[drawOrder[i]] == undefined) continue;
                 var slot = slots[drawOrder[i].data.index];
                 var slotContainer = this.slotContainers[drawOrder[i].data.index];
                 if (!clippingContainer) {
