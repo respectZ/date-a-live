@@ -20,196 +20,26 @@ pixi-spine.js:4717 Uncaught Error: Invalid timeline type for a bone: flipX (yu3)
 /*
 to do :
 10511 layering
+12302 layering
+offset = {
+            y = 20,
+            x = 127,
+        },
+        path = "effect/dating/ui_superKanban_10808/main_effect_10808_renwu",
+offset = {
+            y = -30,
+            x = 15,
+        },
+        path = "effect/dating/ui_superKanban_12202/effect_main_12202",
+ offset = {
+            y = 46,
+            x = -11,
+        },
+        path = "effect/dating/ui_superKanban_12504/junai_kanban",
+        action = "texiao_qian",
 */
 
-let charaEffect = {
-  "bust_10109_superKanban": {
-  	"0": {
-  	  "path":"effect/dating/ui_superKanban_10109/effect_main_10109_1",
-  	  "action":"stand"
-  	},
-    "1": {
-      "path": "effect/dating/ui_superKanban_10109/effect_main_10109_2",
-      "action": "stand"
-    },
-    "2": {
-      "path": "effect/dating/ui_superKanban_10109/effect_main_10109_3",
-      "action": "stand"
-    }
-  },
-  "bust_10111_superKanban": {
-  	"0": {
-  	  "path":"effect/dating/ui_superKanban_10111/effect_main_10111",
-  	  "action":"animation"
-  	}
-  },
-  "bust_10113_superKanban": {
-  	"0": {
-      "path": "effect/dating/ui_superKanban_10113/effect_shixiangkanbanBG",
-      "action": "animation"
-    },
-    "1": {
-      "path": "effect/dating/ui_superKanban_10113/effect_shixiangkanban",
-      "action": "animation"
-    },
-    "2": {
-    	"path": "effect/dating/ui_superKanban_10113/effect_shixiangkanban",
-    	"action": "animation2"
-    }
-  },
-  "bust_10116_superKanban": {
-    "0": {
-      "path": "effect/dating/ui_superKanban_10116/effect_main_10116",
-      "action": "playbelow"
-    },
-    "1": {
-  		"path":"effect/dating/ui_superKanban_10116/effect_main_10116",
-  		"action":"playup"
-  	}
-  },
-  "bust_10119_superKanban": {
-    "0": {
-      "path": "effect/dating/ui_superKanban_10119/hanfushixiangjangkanban",
-      "action": "animation"
-    }
-  },
-  "bust_10213_superKanban": {
-    "0": {
-      "path": "effect/dating/ui_superKanban_10213/effect_main_10213",
-      "action": "animation_down"
-    },
-    "1": {
-    	"path": "effect/dating/ui_superKanban_10213/effect_main_10213",
-    	"action":"animation_up"
-    }
-  },
-  "bust_10216_superKanban": {
-    "0": {
-      "path": "effect/dating/ui_superKanban_10216/effect_main_10216",
-      "action": "effect_main_10216_dpwn"
-    },
-    "1": {
-      "path": "effect/dating/ui_superKanban_10216/effect_main_10216",
-      "action": "effect_main_10216_liuxing"
-    },
-    "2": {
-    	"path":"effect/dating/ui_superKanban_10216/effect_main_10216",
-    	"action":"effect_main_10216_up"
-    }
-  },
-  "bust_10219_superKanban": {
-  	"0": {
-  		"path":"effect/dating/ui_superKanban_10219/effect_main_10219",
-  		"action":"animation"
-  	}
-  },
-  "bust_10307_superKanban": {
-    "0": {
-      "path": "effect/dating/ui_superKanban_10307/bg_ssn_high1",
-      "action": "animation"
-    }
-  },
-  "bust_10309_superKanban": {
-    "0": {
-      "path": "effect/dating/ui_superKanban_10309/effect_hefusisinai",
-      "action": "effect_hefusisinai_xia"
-    },
-    "1": {
-    	"path":"effect/dating/ui_superKanban_10309/effect_hefusisinai",
-    	"action":"effect_hefusisinai_shang"
-    }
-  },
-  "bust_10409_superkanban": {
-    "0": {
-      "path": "effect/dating/ui_superKanban_10409/effect_main_10409",
-      "action": "animation"
-    }
-  },
-  "bust_10414_superkanban": {
-    "0": {
-      "path": "effect/dating/ui_superKanban_10414/effect_main_10414",
-      "action": "play"
-    }
-  },
-  "bust_10416_superkanban": {
-    "0": {
-      "path": "effect/dating/ui_superKanban_10416/effects_hfkuangsankanban",
-      "action": "effects_hfkuangsankanban_all"
-    }
-  },
-  "bust_10507_new": {
-  	"0": {
-  		"path": "effect/dating/ui_superKanban_10507/effect_main_10507",
-  		"action":"animation"
-  	}
-  },
-  "bust_10509_superKanban": {
-    "0": {
-      "path": "effect/dating/ui_superKanban_10509/effect_main_10509",
-      "action": "animation"
-    }
-  },
-  "bust_10511_superKanban": {
-    "0": {
-      "path": "effect/dating/ui_superKanban_10511/effect_main_10511",
-      "action": "lizi_up"
-    },
-    "1": {
-      "path": "effect/dating/ui_superKanban_10511/effect_main_10511",
-      "action": "up"
-    },
-    "2": {
-      "path": "effect/dating/ui_superKanban_10511/effect_main_10511",
-      "action": "lizi_down"
-    },
-    "3": {
-      "path": "effect/dating/ui_superKanban_10511/effect_main_10511",
-      "action": "down"
-    }
-  },
-  "bust_11006_superKanban": {
-  	"0": {
-  		"path":"effect/dating/ui_superKanban_11006/paopao4",
-  		"action":"4"
-  	},
-  	"1": {
-  		"path":"effect/dating/ui_superKanban_11006/paopao3",
-  		"action":"3"
-  	},
-  	"2": {
-  		"path":"effect/dating/ui_superKanban_11006/paopao2",
-  		"action":"2"
-  	},
-  	"3": {
-  		"path":"effect/dating/ui_superKanban_11006/paopao1",
-  		"action":"1"
-  	}
-  },
-  "bust_11207_superKanban": {
-    "0": {
-      "path": "effect/dating/ui_superKanban_11207/effect_main_11207",
-      "action": "animation"
-    }
-  },
-  "bust_11209_superKanban": {
-    "0": {
-      "path": "effect/dating/ui_superKanban_11209/effect_main_11209",
-      "action": "animation2"
-    }
-  },
-  "bust_11311_superKanban": {
-    "0": {
-      "path": "effect/dating/ui_superKanban_11311/effect_main_11313",
-      "action": "animation"
-    }
-  },
-  "bust_11502_superKanban": {
-    "0": {
-      "path": "effect/dating/ui_superKanban_11502/skeleton",
-      "action": "animation"
-    }
-  }
-};
+let charaEffect = JSON.parse(httpGet("data/bgeffect.json"));
 
 
 var bgEffect = {
